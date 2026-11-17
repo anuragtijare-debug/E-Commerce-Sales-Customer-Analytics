@@ -1,0 +1,500 @@
+customer_id,customer_name,segment,city,last_order_date,recency_days,frequency,monetary,R_score,F_score,M_score,RFM_total,rfm_segment
+CUST0356,Customer_356,Premium,Pune,2025-08-28,62,9,665620.78,5,5,5,15,Champions
+CUST0115,Customer_115,Budget,Pune,2025-09-23,36,9,552955.38,5,5,5,15,Champions
+CUST0071,Customer_71,Regular,Delhi,2025-09-26,33,8,479114.24,5,5,5,15,Champions
+CUST0247,Customer_247,Regular,Mumbai,2025-09-18,41,7,461310.61,5,5,5,15,Champions
+CUST0156,Customer_156,Premium,Delhi,2025-09-22,37,10,457849.75,5,5,5,15,Champions
+CUST0151,Customer_151,Premium,Bangalore,2025-09-30,29,11,456351.6,5,5,5,15,Champions
+CUST0154,Customer_154,Budget,Bangalore,2025-09-30,29,9,439172.66,5,5,5,15,Champions
+CUST0171,Customer_171,Premium,Ahmedabad,2025-08-28,62,8,420776.96,5,5,5,15,Champions
+CUST0291,Customer_291,Premium,Mumbai,2025-08-31,59,8,386157.8,5,5,5,15,Champions
+CUST0192,Customer_192,Regular,Bangalore,2025-09-16,43,13,381337.53,5,5,5,15,Champions
+CUST0359,Customer_359,Regular,Mumbai,2025-10-04,25,7,368768.6,5,5,5,15,Champions
+CUST0478,Customer_478,Premium,Ahmedabad,2025-09-22,37,9,338877.32,5,5,5,15,Champions
+CUST0430,Customer_430,Regular,Hyderabad,2025-09-12,47,6,306277.87,5,5,5,15,Champions
+CUST0481,Customer_481,Regular,Hyderabad,2025-10-13,16,8,304271.89,5,5,5,15,Champions
+CUST0066,Customer_66,Regular,Delhi,2025-09-17,42,8,286396.52,5,5,5,15,Champions
+CUST0299,Customer_299,Regular,Chennai,2025-09-10,49,6,236318.98,5,5,5,15,Champions
+CUST0135,Customer_135,Premium,Pune,2025-07-12,109,7,516187.81,4,5,5,14,Champions
+CUST0312,Customer_312,Budget,Pune,2025-07-08,113,7,494571.35,4,5,5,14,Champions
+CUST0166,Customer_166,Premium,Mumbai,2025-09-10,49,6,464072.29,5,4,5,14,Champions
+CUST0332,Customer_332,Regular,Mumbai,2025-08-14,76,6,460977.68,4,5,5,14,Champions
+CUST0052,Customer_52,Budget,Kolkata,2025-07-09,112,7,419444.69,4,5,5,14,Champions
+CUST0063,Customer_63,Premium,Chennai,2025-09-28,31,6,363644.64,5,4,5,14,Champions
+CUST0471,Customer_471,Regular,Chennai,2025-09-29,30,5,335388.74,5,4,5,14,Champions
+CUST0345,Customer_345,Premium,Bangalore,2025-08-14,76,6,295242.84,4,5,5,14,Champions
+CUST0409,Customer_409,Regular,Hyderabad,2025-08-05,85,7,278617.37,4,5,5,14,Champions
+CUST0191,Customer_191,Regular,Pune,2025-08-07,83,8,278318.72,4,5,5,14,Champions
+CUST0074,Customer_74,Regular,Delhi,2025-09-23,36,6,278168.49,5,4,5,14,Champions
+CUST0203,Customer_203,Regular,Pune,2025-09-16,43,6,275253.04,5,4,5,14,Champions
+CUST0307,Customer_307,Budget,Hyderabad,2025-07-03,118,7,269683.45,4,5,5,14,Champions
+CUST0337,Customer_337,Budget,Chennai,2025-07-26,95,6,267680.71,4,5,5,14,Champions
+CUST0131,Customer_131,Budget,Hyderabad,2025-09-21,38,6,266365.9,5,4,5,14,Champions
+CUST0328,Customer_328,Regular,Pune,2025-09-08,51,5,260883.81,5,4,5,14,Champions
+CUST0006,Customer_6,Premium,Ahmedabad,2025-08-19,71,7,254730.92,4,5,5,14,Champions
+CUST0444,Customer_444,Budget,Ahmedabad,2025-09-10,49,5,248993.01,5,4,5,14,Champions
+CUST0179,Customer_179,Budget,Mumbai,2025-09-28,31,6,238339.49,5,4,5,14,Champions
+CUST0225,Customer_225,Regular,Delhi,2025-09-04,55,7,230610.85,5,5,4,14,Champions
+CUST0500,Customer_500,Regular,Hyderabad,2025-08-26,64,8,227129.86,5,5,4,14,Champions
+CUST0241,Customer_241,Regular,Delhi,2025-09-18,41,7,225943.95,5,5,4,14,Champions
+CUST0300,Customer_300,Budget,Ahmedabad,2025-10-10,19,8,219876.15,5,5,4,14,Champions
+CUST0454,Customer_454,Budget,Kolkata,2025-10-14,15,6,219001.46,5,5,4,14,Champions
+CUST0495,Customer_495,Regular,Chennai,2025-09-23,36,7,198798.06,5,5,4,14,Champions
+CUST0317,Customer_317,Regular,Bangalore,2025-09-16,43,6,177129.78,5,5,4,14,Champions
+CUST0303,Customer_303,Regular,Bangalore,2025-09-26,33,6,168075.24,5,5,4,14,Champions
+CUST0227,Customer_227,Premium,Chennai,2025-04-08,204,9,592561.04,3,5,5,13,Loyal Customers
+CUST0049,Customer_49,Regular,Kolkata,2025-10-18,11,5,578761.92,5,3,5,13,Loyal Customers
+CUST0079,Customer_79,Regular,Pune,2025-07-26,95,6,515439.25,4,4,5,13,Champions
+CUST0233,Customer_233,Regular,Hyderabad,2025-04-15,197,7,468947.16,3,5,5,13,Loyal Customers
+CUST0340,Customer_340,Regular,Hyderabad,2025-05-20,162,8,464213.98,3,5,5,13,Loyal Customers
+CUST0434,Customer_434,Regular,Ahmedabad,2025-08-18,72,5,455686.98,4,4,5,13,Champions
+CUST0033,Customer_33,Budget,Hyderabad,2025-10-08,21,5,382233.34,5,3,5,13,Loyal Customers
+CUST0493,Customer_493,Regular,Mumbai,2025-07-06,115,5,361338.47,4,4,5,13,Champions
+CUST0197,Customer_197,Regular,Delhi,2025-10-04,25,4,344344.84,5,3,5,13,Loyal Customers
+CUST0377,Customer_377,Budget,Hyderabad,2025-05-24,158,6,310014.57,3,5,5,13,Loyal Customers
+CUST0095,Customer_95,Budget,Kolkata,2025-06-27,124,6,302233.4,4,4,5,13,Champions
+CUST0488,Customer_488,Regular,Hyderabad,2025-05-18,164,7,298958.46,3,5,5,13,Loyal Customers
+CUST0220,Customer_220,Budget,Pune,2025-06-27,124,5,297709.24,4,4,5,13,Champions
+CUST0321,Customer_321,Budget,Ahmedabad,2025-06-03,148,8,284438.1,3,5,5,13,Loyal Customers
+CUST0034,Customer_34,Regular,Delhi,2025-06-03,148,8,282751.32,3,5,5,13,Loyal Customers
+CUST0042,Customer_42,Regular,Pune,2025-08-21,69,6,274767.01,4,4,5,13,Champions
+CUST0400,Customer_400,Premium,Mumbai,2025-07-28,93,5,268250.84,4,4,5,13,Champions
+CUST0254,Customer_254,Regular,Chennai,2025-07-20,101,6,262883.53,4,4,5,13,Champions
+CUST0314,Customer_314,Budget,Pune,2025-07-31,90,5,250086.52,4,4,5,13,Champions
+CUST0302,Customer_302,Premium,Mumbai,2025-05-14,168,7,236950.78,3,5,5,13,Loyal Customers
+CUST0405,Customer_405,Regular,Ahmedabad,2025-08-02,88,5,236587.73,4,4,5,13,Champions
+CUST0309,Customer_309,Regular,Ahmedabad,2025-08-17,73,8,231645.78,4,5,4,13,Champions
+CUST0326,Customer_326,Budget,Kolkata,2025-08-13,77,6,230059.15,4,5,4,13,Champions
+CUST0306,Customer_306,Budget,Chennai,2025-08-06,84,6,228638.23,4,5,4,13,Champions
+CUST0240,Customer_240,Regular,Ahmedabad,2025-06-22,129,8,227140.71,4,5,4,13,Champions
+CUST0341,Customer_341,Premium,Bangalore,2025-07-22,99,6,226250.93,4,5,4,13,Champions
+CUST0316,Customer_316,Regular,Ahmedabad,2025-07-17,104,8,215183.9,4,5,4,13,Champions
+CUST0415,Customer_415,Regular,Bangalore,2025-09-22,37,5,208631.19,5,4,4,13,Champions
+CUST0239,Customer_239,Regular,Bangalore,2025-08-03,87,7,206643.07,4,5,4,13,Champions
+CUST0279,Customer_279,Budget,Mumbai,2025-09-19,40,6,202124.66,5,4,4,13,Champions
+CUST0083,Customer_83,Regular,Chennai,2025-09-08,51,6,199868.88,5,4,4,13,Champions
+CUST0278,Customer_278,Budget,Kolkata,2025-10-28,1,5,191216.29,5,4,4,13,Champions
+CUST0474,Customer_474,Regular,Hyderabad,2025-06-24,127,6,189195.29,4,5,4,13,Champions
+CUST0414,Customer_414,Regular,Mumbai,2025-06-29,122,6,183045.58,4,5,4,13,Champions
+CUST0294,Customer_294,Regular,Delhi,2025-06-24,127,7,175108.8,4,5,4,13,Champions
+CUST0285,Customer_285,Premium,Delhi,2025-09-28,31,6,173112.37,5,4,4,13,Champions
+CUST0017,Customer_17,Regular,Hyderabad,2025-10-01,28,6,170748.45,5,4,4,13,Champions
+CUST0231,Customer_231,Premium,Kolkata,2025-06-25,126,7,170134.29,4,5,4,13,Champions
+CUST0376,Customer_376,Premium,Hyderabad,2025-08-05,85,6,164105.43,4,5,4,13,Champions
+CUST0036,Customer_36,Budget,Chennai,2025-08-28,62,8,155871.7,5,5,3,13,Champions
+CUST0293,Customer_293,Regular,Mumbai,2025-10-24,5,8,147759.24,5,5,3,13,Champions
+CUST0468,Customer_468,Regular,Mumbai,2025-09-16,43,7,141529.56,5,5,3,13,Champions
+CUST0425,Customer_425,Regular,Ahmedabad,2025-08-27,63,7,131728.16,5,5,3,13,Champions
+CUST0475,Customer_475,Premium,Bangalore,2025-10-10,19,6,121718.72,5,5,3,13,Champions
+CUST0479,Customer_479,Regular,Mumbai,2025-08-24,66,7,110076.14,5,5,3,13,Champions
+CUST0392,Customer_392,Budget,Bangalore,2025-03-09,234,7,356025.36,2,5,5,12,At Risk
+CUST0361,Customer_361,Budget,Hyderabad,2024-09-28,396,7,355373.39,2,5,5,12,At Risk
+CUST0176,Customer_176,Budget,Kolkata,2025-06-15,136,5,322760.02,3,4,5,12,Loyal Customers
+CUST0060,Customer_60,Regular,Chennai,2025-07-17,104,5,322072.47,4,3,5,12,Loyal Customers
+CUST0483,Customer_483,Premium,Chennai,2025-07-31,90,4,318262.42,4,3,5,12,Loyal Customers
+CUST0484,Customer_484,Premium,Kolkata,2025-05-23,159,5,312147.65,3,4,5,12,Loyal Customers
+CUST0213,Customer_213,Regular,Chennai,2025-04-27,185,6,305183.32,3,4,5,12,Loyal Customers
+CUST0124,Customer_124,Regular,Pune,2025-06-30,121,4,302237.67,4,3,5,12,Loyal Customers
+CUST0325,Customer_325,Regular,Kolkata,2024-12-04,329,8,299551.45,2,5,5,12,At Risk
+CUST0492,Customer_492,Regular,Chennai,2025-01-11,291,6,267609.33,2,5,5,12,At Risk
+CUST0342,Customer_342,Regular,Hyderabad,2025-08-17,73,4,260876.48,4,3,5,12,Loyal Customers
+CUST0407,Customer_407,Budget,Kolkata,2025-03-06,237,7,259749.91,2,5,5,12,At Risk
+CUST0280,Customer_280,Regular,Delhi,2025-06-09,142,5,258719.81,3,4,5,12,Loyal Customers
+CUST0348,Customer_348,Budget,Hyderabad,2025-07-12,109,4,249522.7,4,3,5,12,Loyal Customers
+CUST0365,Customer_365,Regular,Pune,2025-03-30,213,6,227520.44,3,5,4,12,Loyal Customers
+CUST0248,Customer_248,Regular,Mumbai,2025-08-10,80,5,226096.49,4,4,4,12,Champions
+CUST0128,Customer_128,Budget,Mumbai,2025-05-24,158,9,222134.64,3,5,4,12,Loyal Customers
+CUST0349,Customer_349,Regular,Ahmedabad,2025-07-18,103,5,215069.08,4,4,4,12,Champions
+CUST0123,Customer_123,Regular,Delhi,2025-10-10,19,4,205698.97,5,3,4,12,Loyal Customers
+CUST0201,Customer_201,Regular,Pune,2025-08-06,84,5,203367.49,4,4,4,12,Champions
+CUST0162,Customer_162,Budget,Mumbai,2025-04-02,210,7,201462.57,3,5,4,12,Loyal Customers
+CUST0072,Customer_72,Budget,Delhi,2025-10-09,20,5,201070.93,5,3,4,12,Loyal Customers
+CUST0137,Customer_137,Regular,Mumbai,2025-09-17,42,5,199820.14,5,3,4,12,Loyal Customers
+CUST0357,Customer_357,Premium,Delhi,2025-07-15,106,5,189913.51,4,4,4,12,Champions
+CUST0108,Customer_108,Regular,Hyderabad,2025-08-27,63,5,188810.61,5,3,4,12,Loyal Customers
+CUST0292,Customer_292,Regular,Bangalore,2025-08-09,81,6,187081.67,4,4,4,12,Champions
+CUST0380,Customer_380,Regular,Mumbai,2025-05-12,170,7,186369.37,3,5,4,12,Loyal Customers
+CUST0402,Customer_402,Premium,Hyderabad,2025-05-31,151,6,181174.44,3,5,4,12,Loyal Customers
+CUST0077,Customer_77,Premium,Hyderabad,2025-03-25,218,9,178679.08,3,5,4,12,Loyal Customers
+CUST0002,Customer_2,Regular,Hyderabad,2025-05-30,152,12,172510.9,3,5,4,12,Loyal Customers
+CUST0404,Customer_404,Regular,Mumbai,2025-08-09,81,5,165864.86,4,4,4,12,Champions
+CUST0187,Customer_187,Regular,Delhi,2025-06-13,138,7,164409.44,3,5,4,12,Loyal Customers
+CUST0442,Customer_442,Regular,Ahmedabad,2025-09-29,30,5,149403.84,5,4,3,12,Champions
+CUST0443,Customer_443,Regular,Mumbai,2025-08-20,70,6,149031.93,4,5,3,12,Champions
+CUST0406,Customer_406,Budget,Hyderabad,2025-08-20,70,6,147593.29,4,5,3,12,Champions
+CUST0045,Customer_45,Regular,Hyderabad,2025-08-17,73,7,143597.35,4,5,3,12,Champions
+CUST0389,Customer_389,Premium,Mumbai,2025-09-07,52,5,133502.14,5,4,3,12,Champions
+CUST0287,Customer_287,Regular,Mumbai,2025-09-17,42,5,128614.96,5,4,3,12,Champions
+CUST0368,Customer_368,Premium,Delhi,2025-09-28,31,5,112461.06,5,4,3,12,Champions
+CUST0421,Customer_421,Budget,Delhi,2025-08-25,65,5,111260.18,5,4,3,12,Champions
+CUST0126,Customer_126,Regular,Ahmedabad,2025-09-25,34,6,111173.93,5,4,3,12,Champions
+CUST0323,Customer_323,Regular,Hyderabad,2025-10-09,20,5,105812.28,5,4,3,12,Champions
+CUST0218,Customer_218,Budget,Chennai,2025-09-06,53,7,101539.84,5,5,2,12,Champions
+CUST0296,Customer_296,Budget,Hyderabad,2025-09-03,56,7,100267.44,5,5,2,12,Champions
+CUST0491,Customer_491,Budget,Ahmedabad,2025-10-06,23,6,92626.37,5,5,2,12,Champions
+CUST0204,Customer_204,Premium,Mumbai,2025-09-20,39,8,66741.5,5,5,2,12,Champions
+CUST0460,Customer_460,Budget,Bangalore,2025-08-30,60,6,56641.72,5,5,2,12,Champions
+CUST0202,Customer_202,Premium,Ahmedabad,2025-01-07,295,5,385804.38,2,4,5,11,At Risk
+CUST0007,Customer_7,Budget,Chennai,2025-03-20,223,6,323304.95,2,4,5,11,At Risk
+CUST0270,Customer_270,Budget,Bangalore,2025-06-02,149,4,321895.92,3,3,5,11,Loyal Customers
+CUST0273,Customer_273,Premium,Ahmedabad,2025-06-03,148,4,295372.72,3,3,5,11,Loyal Customers
+CUST0010,Customer_10,Budget,Delhi,2025-03-25,218,5,295240.55,3,3,5,11,Loyal Customers
+CUST0433,Customer_433,Budget,Chennai,2025-05-23,159,4,292748.11,3,3,5,11,Loyal Customers
+CUST0226,Customer_226,Budget,Delhi,2025-05-20,162,4,281256.67,3,3,5,11,Loyal Customers
+CUST0229,Customer_229,Regular,Mumbai,2025-02-03,268,6,267417.48,2,4,5,11,At Risk
+CUST0046,Customer_46,Regular,Hyderabad,2024-10-28,366,6,257034.16,2,4,5,11,At Risk
+CUST0388,Customer_388,Regular,Pune,2024-07-13,473,6,244266.26,1,5,5,11,At Risk
+CUST0214,Customer_214,Regular,Pune,2024-09-01,423,5,240574.26,2,4,5,11,At Risk
+CUST0457,Customer_457,Regular,Kolkata,2025-05-29,153,4,237552.1,3,3,5,11,Loyal Customers
+CUST0181,Customer_181,Budget,Chennai,2025-03-20,223,5,234781.87,2,4,5,11,At Risk
+CUST0311,Customer_311,Budget,Ahmedabad,2025-02-12,259,6,230415.44,2,5,4,11,At Risk
+CUST0057,Customer_57,Premium,Ahmedabad,2025-02-15,256,7,225786.71,2,5,4,11,At Risk
+CUST0313,Customer_313,Premium,Hyderabad,2025-03-15,228,6,219610.86,2,5,4,11,At Risk
+CUST0160,Customer_160,Regular,Hyderabad,2025-05-28,154,6,213419.71,3,4,4,11,Loyal Customers
+CUST0355,Customer_355,Regular,Ahmedabad,2025-05-25,157,5,212185.14,3,4,4,11,Loyal Customers
+CUST0143,Customer_143,Regular,Hyderabad,2025-05-16,166,5,211874.07,3,4,4,11,Loyal Customers
+CUST0168,Customer_168,Premium,Pune,2025-04-21,191,6,192735.89,3,4,4,11,Loyal Customers
+CUST0173,Customer_173,Premium,Bangalore,2025-05-03,179,5,191953.23,3,4,4,11,Loyal Customers
+CUST0496,Customer_496,Premium,Pune,2025-08-29,61,3,190789.01,5,2,4,11,New / Promising
+CUST0206,Customer_206,Budget,Chennai,2025-03-30,213,6,186257.34,3,4,4,11,Loyal Customers
+CUST0391,Customer_391,Budget,Bangalore,2025-06-12,139,5,184200.14,3,4,4,11,Loyal Customers
+CUST0159,Customer_159,Regular,Mumbai,2025-04-16,196,5,181872.27,3,4,4,11,Loyal Customers
+CUST0021,Customer_21,Regular,Kolkata,2025-09-11,48,4,180527.89,5,2,4,11,New / Promising
+CUST0026,Customer_26,Regular,Kolkata,2025-08-28,62,4,177274.52,5,2,4,11,New / Promising
+CUST0327,Customer_327,Regular,Bangalore,2025-07-23,98,4,174367.31,4,3,4,11,Loyal Customers
+CUST0455,Customer_455,Regular,Chennai,2025-04-26,186,5,168510.82,3,4,4,11,Loyal Customers
+CUST0055,Customer_55,Budget,Pune,2025-07-31,90,6,149821.67,4,4,3,11,Champions
+CUST0003,Customer_3,Regular,Chennai,2025-10-07,22,5,144702.38,5,3,3,11,Loyal Customers
+CUST0008,Customer_8,Budget,Chennai,2025-07-04,117,6,143401.14,4,4,3,11,Champions
+CUST0041,Customer_41,Budget,Bangalore,2025-05-20,162,8,142404.5,3,5,3,11,Loyal Customers
+CUST0152,Customer_152,Regular,Bangalore,2025-04-13,199,8,135713.97,3,5,3,11,Loyal Customers
+CUST0458,Customer_458,Premium,Ahmedabad,2025-06-02,149,7,135521.16,3,5,3,11,Loyal Customers
+CUST0047,Customer_47,Premium,Ahmedabad,2025-08-17,73,6,133919.34,4,4,3,11,Champions
+CUST0234,Customer_234,Regular,Hyderabad,2025-08-29,61,4,132474.07,5,3,3,11,Loyal Customers
+CUST0284,Customer_284,Regular,Pune,2025-09-27,32,4,127131.29,5,3,3,11,Loyal Customers
+CUST0485,Customer_485,Budget,Chennai,2025-04-25,187,6,113361.6,3,5,3,11,Loyal Customers
+CUST0009,Customer_9,Budget,Pune,2025-06-10,141,8,112369.8,3,5,3,11,Loyal Customers
+CUST0333,Customer_333,Premium,Hyderabad,2025-06-11,140,7,109362.79,3,5,3,11,Loyal Customers
+CUST0065,Customer_65,Regular,Pune,2025-07-06,115,6,106014.31,4,4,3,11,Champions
+CUST0330,Customer_330,Regular,Ahmedabad,2025-08-04,86,5,103363.21,4,4,3,11,Champions
+CUST0386,Customer_386,Premium,Ahmedabad,2025-07-13,108,7,102924.46,4,5,2,11,Champions
+CUST0339,Customer_339,Regular,Hyderabad,2025-10-15,14,5,98380.22,5,4,2,11,Champions
+CUST0394,Customer_394,Regular,Ahmedabad,2025-07-13,108,6,85415.92,4,5,2,11,Champions
+CUST0274,Customer_274,Regular,Ahmedabad,2025-10-02,27,6,80063.61,5,4,2,11,Champions
+CUST0076,Customer_76,Budget,Delhi,2025-10-13,16,6,78079.67,5,4,2,11,Champions
+CUST0029,Customer_29,Premium,Ahmedabad,2025-01-21,281,5,396328.87,2,3,5,10,At Risk
+CUST0134,Customer_134,Regular,Chennai,2025-01-27,275,5,308812.75,2,3,5,10,At Risk
+CUST0118,Customer_118,Regular,Kolkata,2024-05-20,527,6,308358.34,1,4,5,10,At Risk
+CUST0140,Customer_140,Regular,Mumbai,2025-04-27,185,3,290852.29,3,2,5,10,Potential Loyalists
+CUST0452,Customer_452,Regular,Kolkata,2025-01-04,298,4,266102.24,2,3,5,10,At Risk
+CUST0318,Customer_318,Regular,Mumbai,2025-03-03,240,4,242104.27,2,3,5,10,At Risk
+CUST0395,Customer_395,Regular,Bangalore,2025-05-05,177,4,231192.24,3,3,4,10,Loyal Customers
+CUST0030,Customer_30,Budget,Hyderabad,2025-05-12,170,5,227005.68,3,3,4,10,Loyal Customers
+CUST0350,Customer_350,Regular,Pune,2024-01-18,650,6,216238.0,1,5,4,10,At Risk
+CUST0178,Customer_178,Regular,Bangalore,2025-04-07,205,4,204052.51,3,3,4,10,Loyal Customers
+CUST0193,Customer_193,Regular,Mumbai,2024-08-16,439,7,197019.56,1,5,4,10,At Risk
+CUST0438,Customer_438,Budget,Ahmedabad,2025-10-18,11,2,195744.67,5,1,4,10,New / Promising
+CUST0121,Customer_121,Premium,Ahmedabad,2025-06-04,147,5,193204.68,3,3,4,10,Loyal Customers
+CUST0399,Customer_399,Premium,Ahmedabad,2025-08-09,81,3,190503.94,4,2,4,10,New / Promising
+CUST0107,Customer_107,Regular,Kolkata,2025-05-01,181,5,189544.1,3,3,4,10,Loyal Customers
+CUST0061,Customer_61,Budget,Bangalore,2025-06-10,141,5,183883.65,3,3,4,10,Loyal Customers
+CUST0375,Customer_375,Premium,Mumbai,2025-05-03,179,4,182253.46,3,3,4,10,Loyal Customers
+CUST0186,Customer_186,Regular,Chennai,2025-04-09,203,4,179203.09,3,3,4,10,Loyal Customers
+CUST0242,Customer_242,Regular,Pune,2025-03-18,225,5,177977.69,2,4,4,10,At Risk
+CUST0024,Customer_24,Budget,Ahmedabad,2025-06-04,147,5,175080.96,3,3,4,10,Loyal Customers
+CUST0158,Customer_158,Regular,Delhi,2024-09-25,399,5,174366.57,2,4,4,10,At Risk
+CUST0113,Customer_113,Regular,Ahmedabad,2025-03-20,223,6,167542.23,2,4,4,10,At Risk
+CUST0401,Customer_401,Regular,Ahmedabad,2025-01-26,276,5,166447.55,2,4,4,10,At Risk
+CUST0175,Customer_175,Regular,Ahmedabad,2025-09-17,42,3,147859.08,5,2,3,10,New / Promising
+CUST0222,Customer_222,Premium,Bangalore,2025-09-12,47,3,144855.85,5,2,3,10,New / Promising
+CUST0223,Customer_223,Premium,Kolkata,2025-05-22,160,6,138474.55,3,4,3,10,Loyal Customers
+CUST0338,Customer_338,Regular,Bangalore,2025-07-18,103,4,135035.58,4,3,3,10,Loyal Customers
+CUST0144,Customer_144,Regular,Ahmedabad,2025-06-21,130,4,132367.77,4,3,3,10,Loyal Customers
+CUST0172,Customer_172,Budget,Chennai,2025-04-22,190,5,132161.53,3,4,3,10,Loyal Customers
+CUST0080,Customer_80,Regular,Hyderabad,2025-08-01,89,5,126682.3,4,3,3,10,Loyal Customers
+CUST0427,Customer_427,Regular,Mumbai,2025-06-30,121,4,125711.27,4,3,3,10,Loyal Customers
+CUST0199,Customer_199,Premium,Chennai,2025-03-30,213,6,124329.95,3,4,3,10,Loyal Customers
+CUST0364,Customer_364,Regular,Delhi,2025-04-06,206,5,122793.43,3,4,3,10,Loyal Customers
+CUST0275,Customer_275,Budget,Mumbai,2025-08-10,80,4,112204.25,4,3,3,10,Loyal Customers
+CUST0487,Customer_487,Regular,Bangalore,2025-05-08,174,5,109909.9,3,4,3,10,Loyal Customers
+CUST0315,Customer_315,Budget,Bangalore,2025-05-17,165,7,100849.6,3,5,2,10,Loyal Customers
+CUST0228,Customer_228,Budget,Kolkata,2025-08-05,85,5,100090.93,4,4,2,10,Champions
+CUST0450,Customer_450,Regular,Kolkata,2025-10-23,6,4,94943.36,5,3,2,10,Loyal Customers
+CUST0269,Customer_269,Regular,Pune,2025-07-03,118,5,94826.56,4,4,2,10,Champions
+CUST0245,Customer_245,Regular,Pune,2025-09-30,29,4,94033.51,5,3,2,10,Loyal Customers
+CUST0097,Customer_97,Regular,Delhi,2025-08-28,62,5,82328.83,5,3,2,10,Loyal Customers
+CUST0208,Customer_208,Budget,Hyderabad,2025-06-05,146,9,81639.36,3,5,2,10,Loyal Customers
+CUST0271,Customer_271,Premium,Kolkata,2025-06-27,124,6,80956.29,4,4,2,10,Champions
+CUST0385,Customer_385,Budget,Chennai,2025-09-01,58,4,72642.01,5,3,2,10,Loyal Customers
+CUST0163,Customer_163,Regular,Ahmedabad,2025-08-17,73,6,61062.82,4,4,2,10,Champions
+CUST0498,Customer_498,Premium,Hyderabad,2025-07-27,94,5,56606.34,4,4,2,10,Champions
+CUST0396,Customer_396,Regular,Hyderabad,2024-02-03,634,4,353277.92,1,3,5,9,At Risk
+CUST0180,Customer_180,Budget,Bangalore,2024-01-17,651,4,283033.02,1,3,5,9,At Risk
+CUST0189,Customer_189,Budget,Pune,2024-08-07,448,4,280859.96,1,3,5,9,At Risk
+CUST0035,Customer_35,Budget,Kolkata,2025-03-06,237,4,254651.95,2,2,5,9,Hibernating
+CUST0051,Customer_51,Regular,Pune,2024-12-29,304,4,239471.55,2,2,5,9,Hibernating
+CUST0069,Customer_69,Budget,Hyderabad,2024-09-04,420,4,235071.89,2,2,5,9,Hibernating
+CUST0127,Customer_127,Regular,Delhi,2024-11-21,342,3,232126.4,2,2,5,9,Hibernating
+CUST0266,Customer_266,Regular,Delhi,2024-08-21,434,5,222508.17,1,4,4,9,At Risk
+CUST0462,Customer_462,Regular,Chennai,2025-05-12,170,3,217355.33,3,2,4,9,Potential Loyalists
+CUST0408,Customer_408,Regular,Ahmedabad,2025-03-31,212,3,214866.55,3,2,4,9,Potential Loyalists
+CUST0281,Customer_281,Regular,Hyderabad,2025-02-04,267,4,210827.79,2,3,4,9,At Risk
+CUST0129,Customer_129,Premium,Hyderabad,2025-02-09,262,4,204585.56,2,3,4,9,At Risk
+CUST0050,Customer_50,Budget,Kolkata,2024-03-29,579,6,194468.5,1,4,4,9,At Risk
+CUST0344,Customer_344,Budget,Delhi,2024-08-06,449,5,193559.94,1,4,4,9,At Risk
+CUST0138,Customer_138,Regular,Mumbai,2025-01-08,294,5,188511.49,2,3,4,9,At Risk
+CUST0125,Customer_125,Regular,Chennai,2025-02-03,268,4,185665.2,2,3,4,9,At Risk
+CUST0352,Customer_352,Budget,Mumbai,2025-01-19,283,4,177614.42,2,3,4,9,At Risk
+CUST0343,Customer_343,Premium,Bangalore,2025-04-30,182,3,177518.67,3,2,4,9,Potential Loyalists
+CUST0467,Customer_467,Budget,Ahmedabad,2024-08-09,446,5,169774.44,1,4,4,9,At Risk
+CUST0412,Customer_412,Regular,Ahmedabad,2024-07-31,455,5,165794.01,1,4,4,9,At Risk
+CUST0044,Customer_44,Regular,Ahmedabad,2025-08-28,62,2,158804.42,5,1,3,9,New / Promising
+CUST0257,Customer_257,Regular,Pune,2025-06-08,143,4,145118.39,3,3,3,9,Loyal Customers
+CUST0331,Customer_331,Regular,Mumbai,2025-07-31,90,3,143213.68,4,2,3,9,New / Promising
+CUST0369,Customer_369,Budget,Bangalore,2024-11-08,355,5,136846.32,2,4,3,9,At Risk
+CUST0448,Customer_448,Budget,Kolkata,2025-08-04,86,3,129048.18,4,2,3,9,New / Promising
+CUST0048,Customer_48,Regular,Pune,2025-06-10,141,5,127368.65,3,3,3,9,Loyal Customers
+CUST0351,Customer_351,Premium,Hyderabad,2025-06-20,131,4,126238.29,3,3,3,9,Loyal Customers
+CUST0141,Customer_141,Premium,Ahmedabad,2024-08-05,450,7,125104.65,1,5,3,9,At Risk
+CUST0319,Customer_319,Premium,Pune,2025-08-21,69,2,124766.95,5,1,3,9,New / Promising
+CUST0305,Customer_305,Regular,Delhi,2025-07-07,114,3,120726.75,4,2,3,9,New / Promising
+CUST0301,Customer_301,Budget,Mumbai,2025-07-02,119,3,118358.98,4,2,3,9,New / Promising
+CUST0182,Customer_182,Regular,Pune,2025-05-21,161,4,116834.35,3,3,3,9,Loyal Customers
+CUST0494,Customer_494,Regular,Kolkata,2025-03-23,220,4,115361.73,3,3,3,9,Loyal Customers
+CUST0056,Customer_56,Regular,Hyderabad,2025-07-14,107,4,114720.42,4,2,3,9,New / Promising
+CUST0447,Customer_447,Premium,Bangalore,2025-06-21,130,3,112969.48,4,2,3,9,New / Promising
+CUST0200,Customer_200,Regular,Bangalore,2025-08-02,88,4,91265.02,4,3,2,9,Loyal Customers
+CUST0384,Customer_384,Premium,Chennai,2025-05-28,154,5,89177.99,3,4,2,9,Loyal Customers
+CUST0403,Customer_403,Premium,Bangalore,2025-06-24,127,4,86732.07,4,3,2,9,Loyal Customers
+CUST0445,Customer_445,Regular,Hyderabad,2025-01-25,277,6,83058.16,2,5,2,9,At Risk
+CUST0259,Customer_259,Budget,Ahmedabad,2025-04-18,194,5,81442.76,3,4,2,9,Loyal Customers
+CUST0477,Customer_477,Regular,Mumbai,2025-06-22,129,4,80924.22,4,3,2,9,Loyal Customers
+CUST0090,Customer_90,Premium,Delhi,2025-08-04,86,5,79672.69,4,3,2,9,Loyal Customers
+CUST0329,Customer_329,Budget,Ahmedabad,2025-07-09,112,4,70302.64,4,3,2,9,Loyal Customers
+CUST0429,Customer_429,Regular,Mumbai,2025-09-08,51,3,56299.13,5,2,2,9,New / Promising
+CUST0016,Customer_16,Premium,Chennai,2025-09-02,57,4,55548.07,5,2,2,9,New / Promising
+CUST0243,Customer_243,Budget,Hyderabad,2025-08-06,84,4,51497.0,4,3,2,9,Loyal Customers
+CUST0184,Customer_184,Regular,Bangalore,2025-06-15,136,5,48721.72,3,4,2,9,Loyal Customers
+CUST0005,Customer_5,Regular,Bangalore,2024-06-02,514,4,354427.44,1,2,5,8,Hibernating
+CUST0031,Customer_31,Budget,Chennai,2024-09-21,403,3,284711.35,2,1,5,8,Hibernating
+CUST0324,Customer_324,Regular,Delhi,2024-07-04,482,3,247495.74,1,2,5,8,Hibernating
+CUST0014,Customer_14,Budget,Bangalore,2025-05-21,161,3,226266.66,3,1,4,8,Potential Loyalists
+CUST0019,Customer_19,Budget,Ahmedabad,2025-03-22,221,4,218692.19,2,2,4,8,Hibernating
+CUST0053,Customer_53,Regular,Bangalore,2025-02-24,247,4,207094.45,2,2,4,8,Hibernating
+CUST0390,Customer_390,Regular,Mumbai,2025-01-30,272,3,194144.48,2,2,4,8,Hibernating
+CUST0461,Customer_461,Premium,Delhi,2025-06-17,134,2,181307.42,3,1,4,8,Potential Loyalists
+CUST0195,Customer_195,Premium,Pune,2025-05-05,177,2,171085.35,3,1,4,8,Potential Loyalists
+CUST0114,Customer_114,Premium,Kolkata,2024-10-17,377,5,160022.07,2,3,3,8,At Risk
+CUST0075,Customer_75,Budget,Chennai,2024-07-28,458,6,157632.47,1,4,3,8,At Risk
+CUST0043,Customer_43,Regular,Delhi,2025-06-30,121,3,157053.42,4,1,3,8,New / Promising
+CUST0054,Customer_54,Regular,Hyderabad,2025-07-19,102,3,155683.29,4,1,3,8,New / Promising
+CUST0112,Customer_112,Budget,Pune,2025-05-21,161,4,152955.31,3,2,3,8,Potential Loyalists
+CUST0084,Customer_84,Regular,Ahmedabad,2025-05-23,159,4,148441.33,3,2,3,8,Potential Loyalists
+CUST0092,Customer_92,Regular,Hyderabad,2025-02-22,249,5,144843.9,2,3,3,8,At Risk
+CUST0335,Customer_335,Regular,Kolkata,2025-01-25,277,4,143960.36,2,3,3,8,At Risk
+CUST0453,Customer_453,Premium,Kolkata,2024-07-23,463,5,139832.12,1,4,3,8,At Risk
+CUST0423,Customer_423,Budget,Kolkata,2024-05-15,532,5,136503.54,1,4,3,8,At Risk
+CUST0011,Customer_11,Regular,Bangalore,2024-09-12,412,5,133526.36,2,3,3,8,At Risk
+CUST0276,Customer_276,Premium,Hyderabad,2024-08-16,439,6,127959.83,1,4,3,8,At Risk
+CUST0196,Customer_196,Regular,Delhi,2025-02-20,251,4,125710.65,2,3,3,8,At Risk
+CUST0230,Customer_230,Premium,Chennai,2024-02-01,636,5,124734.17,1,4,3,8,At Risk
+CUST0224,Customer_224,Budget,Hyderabad,2025-02-20,251,4,124003.06,2,3,3,8,At Risk
+CUST0198,Customer_198,Regular,Hyderabad,2025-02-10,261,4,117614.31,2,3,3,8,At Risk
+CUST0437,Customer_437,Premium,Ahmedabad,2024-05-05,542,5,109068.69,1,4,3,8,At Risk
+CUST0249,Customer_249,Budget,Mumbai,2025-05-27,155,3,105219.73,3,2,3,8,Potential Loyalists
+CUST0256,Customer_256,Budget,Bangalore,2025-04-23,189,3,104363.27,3,2,3,8,Potential Loyalists
+CUST0161,Customer_161,Regular,Pune,2025-03-08,235,6,94734.08,2,4,2,8,At Risk
+CUST0417,Customer_417,Regular,Chennai,2025-07-15,106,3,93007.42,4,2,2,8,New / Promising
+CUST0426,Customer_426,Premium,Chennai,2025-05-31,151,4,82610.13,3,3,2,8,Loyal Customers
+CUST0032,Customer_32,Budget,Mumbai,2025-09-07,52,3,76642.36,5,1,2,8,New / Promising
+CUST0366,Customer_366,Regular,Pune,2025-07-06,115,3,75761.69,4,2,2,8,New / Promising
+CUST0133,Customer_133,Regular,Mumbai,2025-09-25,34,2,75298.93,5,1,2,8,New / Promising
+CUST0456,Customer_456,Regular,Bangalore,2025-06-14,137,4,72615.39,3,3,2,8,Loyal Customers
+CUST0148,Customer_148,Regular,Bangalore,2025-08-01,89,3,67352.55,4,2,2,8,New / Promising
+CUST0058,Customer_58,Premium,Mumbai,2025-10-20,9,2,64015.28,5,1,2,8,New / Promising
+CUST0185,Customer_185,Budget,Mumbai,2025-05-09,173,4,62982.63,3,3,2,8,Loyal Customers
+CUST0463,Customer_463,Regular,Kolkata,2024-09-08,416,5,55964.08,2,4,2,8,At Risk
+CUST0422,Customer_422,Regular,Delhi,2025-07-02,119,3,51479.87,4,2,2,8,New / Promising
+CUST0068,Customer_68,Regular,Mumbai,2025-08-31,59,2,50484.07,5,1,2,8,New / Promising
+CUST0039,Customer_39,Regular,Mumbai,2025-03-23,220,5,49842.13,3,3,2,8,Loyal Customers
+CUST0037,Customer_37,Budget,Hyderabad,2025-06-29,122,4,49828.78,4,2,2,8,New / Promising
+CUST0146,Customer_146,Budget,Pune,2025-07-22,99,4,47825.61,4,3,1,8,Loyal Customers
+CUST0132,Customer_132,Budget,Chennai,2025-09-27,32,3,47689.98,5,2,1,8,New / Promising
+CUST0476,Customer_476,Regular,Ahmedabad,2025-07-21,100,4,46131.17,4,3,1,8,Loyal Customers
+CUST0466,Customer_466,Regular,Pune,2025-05-18,164,5,44757.32,3,4,1,8,Loyal Customers
+CUST0290,Customer_290,Budget,Ahmedabad,2025-07-13,108,4,41015.27,4,3,1,8,Loyal Customers
+CUST0465,Customer_465,Regular,Hyderabad,2025-09-03,56,3,34550.37,5,2,1,8,New / Promising
+CUST0440,Customer_440,Regular,Bangalore,2025-10-18,11,3,20413.86,5,2,1,8,New / Promising
+CUST0268,Customer_268,Budget,Ahmedabad,2025-09-19,40,3,20162.72,5,2,1,8,New / Promising
+CUST0378,Customer_378,Regular,Mumbai,2025-08-28,62,3,18341.82,5,2,1,8,New / Promising
+CUST0490,Customer_490,Budget,Chennai,2025-08-25,65,3,17281.0,5,2,1,8,New / Promising
+CUST0251,Customer_251,Premium,Kolkata,2024-09-18,406,2,207604.58,2,1,4,7,Hibernating
+CUST0205,Customer_205,Premium,Hyderabad,2024-01-07,661,3,171515.88,1,2,4,7,Hibernating
+CUST0428,Customer_428,Regular,Hyderabad,2024-06-12,504,4,153521.05,1,3,3,7,At Risk
+CUST0497,Customer_497,Budget,Bangalore,2025-04-15,197,2,149734.85,3,1,3,7,Potential Loyalists
+CUST0283,Customer_283,Regular,Kolkata,2024-04-11,566,4,145171.94,1,3,3,7,At Risk
+CUST0070,Customer_70,Regular,Kolkata,2025-03-16,227,4,142130.77,2,2,3,7,Hibernating
+CUST0371,Customer_371,Regular,Hyderabad,2024-08-30,425,3,120918.85,2,2,3,7,Hibernating
+CUST0398,Customer_398,Budget,Kolkata,2024-12-16,317,3,114137.26,2,2,3,7,Hibernating
+CUST0110,Customer_110,Regular,Pune,2025-03-01,242,3,112092.84,2,2,3,7,Hibernating
+CUST0238,Customer_238,Budget,Kolkata,2023-11-21,708,4,109361.21,1,3,3,7,At Risk
+CUST0094,Customer_94,Regular,Kolkata,2025-03-22,221,4,107902.92,2,2,3,7,Hibernating
+CUST0435,Customer_435,Premium,Hyderabad,2024-04-26,551,5,89852.63,1,4,2,7,At Risk
+CUST0103,Customer_103,Premium,Delhi,2025-04-28,184,4,88076.22,3,2,2,7,Potential Loyalists
+CUST0334,Customer_334,Premium,Bangalore,2025-01-02,300,4,85743.27,2,3,2,7,At Risk
+CUST0221,Customer_221,Budget,Bangalore,2025-06-08,143,3,72278.4,3,2,2,7,Potential Loyalists
+CUST0012,Customer_12,Regular,Pune,2025-06-30,121,3,71953.7,4,1,2,7,New / Promising
+CUST0086,Customer_86,Regular,Bangalore,2025-01-29,273,5,67508.3,2,3,2,7,At Risk
+CUST0020,Customer_20,Premium,Bangalore,2025-05-18,164,4,64513.83,3,2,2,7,Potential Loyalists
+CUST0215,Customer_215,Regular,Bangalore,2024-09-25,399,4,55985.25,2,3,2,7,At Risk
+CUST0353,Customer_353,Regular,Mumbai,2025-05-01,181,3,52852.67,3,2,2,7,Potential Loyalists
+CUST0093,Customer_93,Premium,Delhi,2025-04-16,196,3,50463.68,3,2,2,7,Potential Loyalists
+CUST0424,Customer_424,Budget,Bangalore,2025-09-27,32,2,46446.58,5,1,1,7,New / Promising
+CUST0310,Customer_310,Premium,Kolkata,2025-05-13,169,4,45384.81,3,3,1,7,Loyal Customers
+CUST0073,Customer_73,Regular,Mumbai,2025-06-30,121,4,42486.03,4,2,1,7,New / Promising
+CUST0252,Customer_252,Budget,Mumbai,2025-09-10,49,2,40388.16,5,1,1,7,New / Promising
+CUST0190,Customer_190,Premium,Kolkata,2025-06-19,132,4,39772.47,3,3,1,7,Loyal Customers
+CUST0265,Customer_265,Premium,Bangalore,2025-04-11,201,4,34110.37,3,3,1,7,Loyal Customers
+CUST0119,Customer_119,Budget,Ahmedabad,2025-08-11,79,3,27614.91,4,2,1,7,New / Promising
+CUST0419,Customer_419,Budget,Ahmedabad,2025-09-06,53,2,22134.98,5,1,1,7,New / Promising
+CUST0346,Customer_346,Regular,Pune,2025-07-28,93,3,20922.36,4,2,1,7,New / Promising
+CUST0015,Customer_15,Premium,Ahmedabad,2025-09-02,57,2,17183.21,5,1,1,7,New / Promising
+CUST0040,Customer_40,Premium,Bangalore,2025-08-17,73,4,11921.09,4,2,1,7,New / Promising
+CUST0164,Customer_164,Regular,Hyderabad,2025-09-29,30,2,11732.69,5,1,1,7,New / Promising
+CUST0023,Customer_23,Budget,Delhi,2024-05-11,536,3,193846.39,1,1,4,6,Hibernating
+CUST0188,Customer_188,Regular,Pune,2024-07-10,476,2,185583.63,1,1,4,6,Hibernating
+CUST0288,Customer_288,Regular,Chennai,2024-08-01,454,3,146882.67,1,2,3,6,Hibernating
+CUST0451,Customer_451,Regular,Kolkata,2025-02-25,246,2,144169.07,2,1,3,6,Hibernating
+CUST0260,Customer_260,Budget,Bangalore,2025-03-12,231,2,138914.37,2,1,3,6,Hibernating
+CUST0255,Customer_255,Premium,Mumbai,2024-04-06,571,3,132660.51,1,2,3,6,Hibernating
+CUST0250,Customer_250,Regular,Bangalore,2024-04-19,558,3,124489.98,1,2,3,6,Hibernating
+CUST0001,Customer_1,Regular,Pune,2024-12-06,327,2,119137.99,2,1,3,6,Hibernating
+CUST0267,Customer_267,Budget,Hyderabad,2024-01-10,658,3,114053.41,1,2,3,6,Hibernating
+CUST0464,Customer_464,Regular,Mumbai,2023-10-01,759,3,110216.97,1,2,3,6,Hibernating
+CUST0157,Customer_157,Regular,Pune,2025-02-05,266,2,109572.27,2,1,3,6,Hibernating
+CUST0004,Customer_4,Budget,Pune,2025-01-30,272,3,108373.9,2,1,3,6,Hibernating
+CUST0383,Customer_383,Premium,Hyderabad,2024-06-11,505,3,104152.9,1,2,3,6,Hibernating
+CUST0393,Customer_393,Budget,Ahmedabad,2024-06-04,512,4,101977.59,1,3,2,6,At Risk
+CUST0183,Customer_183,Premium,Kolkata,2023-08-08,813,4,100162.19,1,3,2,6,At Risk
+CUST0098,Customer_98,Premium,Hyderabad,2025-04-18,194,2,94191.51,3,1,2,6,Potential Loyalists
+CUST0459,Customer_459,Premium,Bangalore,2024-11-05,358,3,90052.1,2,2,2,6,Hibernating
+CUST0446,Customer_446,Premium,Bangalore,2025-05-01,181,2,89766.54,3,1,2,6,Potential Loyalists
+CUST0358,Customer_358,Regular,Ahmedabad,2025-06-04,147,2,89666.96,3,1,2,6,Potential Loyalists
+CUST0167,Customer_167,Regular,Ahmedabad,2025-05-08,174,1,85952.73,3,1,2,6,Potential Loyalists
+CUST0277,Customer_277,Regular,Mumbai,2025-05-17,165,2,83082.42,3,1,2,6,Potential Loyalists
+CUST0286,Customer_286,Budget,Bangalore,2025-01-26,276,3,82964.66,2,2,2,6,Hibernating
+CUST0130,Customer_130,Regular,Hyderabad,2024-08-08,447,4,79412.38,1,3,2,6,At Risk
+CUST0028,Customer_28,Regular,Delhi,2025-03-02,241,4,73429.58,2,2,2,6,Hibernating
+CUST0480,Customer_480,Regular,Hyderabad,2024-04-27,550,4,73396.23,1,3,2,6,At Risk
+CUST0410,Customer_410,Regular,Kolkata,2025-02-02,269,3,70190.14,2,2,2,6,Hibernating
+CUST0087,Customer_87,Premium,Kolkata,2024-10-20,374,4,69925.74,2,2,2,6,Hibernating
+CUST0136,Customer_136,Regular,Chennai,2025-02-23,248,3,66073.66,2,2,2,6,Hibernating
+CUST0336,Customer_336,Regular,Ahmedabad,2024-11-10,353,3,62980.86,2,2,2,6,Hibernating
+CUST0013,Customer_13,Budget,Bangalore,2025-02-13,258,4,58431.04,2,2,2,6,Hibernating
+CUST0486,Customer_486,Regular,Kolkata,2025-01-14,288,3,49905.97,2,2,2,6,Hibernating
+CUST0100,Customer_100,Premium,Chennai,2025-04-20,192,2,49834.92,3,1,2,6,Potential Loyalists
+CUST0436,Customer_436,Regular,Ahmedabad,2024-10-27,367,4,48384.74,2,3,1,6,At Risk
+CUST0085,Customer_85,Regular,Pune,2025-08-01,89,3,45274.16,4,1,1,6,New / Promising
+CUST0212,Customer_212,Regular,Pune,2024-09-07,417,4,43463.17,2,3,1,6,At Risk
+CUST0237,Customer_237,Regular,Kolkata,2025-07-20,101,2,42273.52,4,1,1,6,New / Promising
+CUST0169,Customer_169,Premium,Pune,2024-09-10,414,4,42144.47,2,3,1,6,At Risk
+CUST0209,Customer_209,Regular,Kolkata,2024-07-22,464,5,39863.64,1,4,1,6,At Risk
+CUST0145,Customer_145,Premium,Ahmedabad,2025-05-23,159,3,38096.18,3,2,1,6,Potential Loyalists
+CUST0155,Customer_155,Regular,Chennai,2025-07-30,91,2,35677.99,4,1,1,6,New / Promising
+CUST0469,Customer_469,Regular,Chennai,2024-11-08,355,4,34265.29,2,3,1,6,At Risk
+CUST0354,Customer_354,Budget,Ahmedabad,2025-05-09,173,3,29997.59,3,2,1,6,Potential Loyalists
+CUST0416,Customer_416,Regular,Mumbai,2025-08-15,75,2,29961.43,4,1,1,6,New / Promising
+CUST0207,Customer_207,Regular,Ahmedabad,2025-02-06,265,4,29960.8,2,3,1,6,At Risk
+CUST0374,Customer_374,Regular,Ahmedabad,2025-07-03,118,2,28678.55,4,1,1,6,New / Promising
+CUST0449,Customer_449,Budget,Pune,2025-07-12,109,1,25943.22,4,1,1,6,New / Promising
+CUST0232,Customer_232,Budget,Hyderabad,2024-11-22,341,4,20391.78,2,3,1,6,At Risk
+CUST0091,Customer_91,Premium,Ahmedabad,2025-08-02,88,2,18183.22,4,1,1,6,New / Promising
+CUST0106,Customer_106,Regular,Delhi,2025-07-04,117,1,11291.34,4,1,1,6,New / Promising
+CUST0147,Customer_147,Regular,Bangalore,2024-03-20,588,2,156836.51,1,1,3,5,Hibernating
+CUST0025,Customer_25,Budget,Hyderabad,2023-09-02,788,3,156303.28,1,1,3,5,Hibernating
+CUST0298,Customer_298,Regular,Pune,2024-07-13,473,1,151262.79,1,1,3,5,Hibernating
+CUST0211,Customer_211,Budget,Pune,2023-04-10,933,1,144721.86,1,1,3,5,Hibernating
+CUST0473,Customer_473,Budget,Bangalore,2024-06-20,496,3,98318.65,1,2,2,5,Hibernating
+CUST0217,Customer_217,Budget,Hyderabad,2024-07-04,482,3,89419.08,1,2,2,5,Hibernating
+CUST0304,Customer_304,Regular,Kolkata,2024-07-13,473,3,86871.6,1,2,2,5,Hibernating
+CUST0367,Customer_367,Premium,Kolkata,2024-08-18,437,3,76296.11,1,2,2,5,Hibernating
+CUST0295,Customer_295,Premium,Delhi,2024-05-27,520,3,74393.66,1,2,2,5,Hibernating
+CUST0142,Customer_142,Regular,Mumbai,2024-01-26,642,3,74216.52,1,2,2,5,Hibernating
+CUST0153,Customer_153,Regular,Mumbai,2023-07-31,821,3,71004.0,1,2,2,5,Hibernating
+CUST0236,Customer_236,Budget,Hyderabad,2024-03-27,581,3,70315.67,1,2,2,5,Hibernating
+CUST0418,Customer_418,Budget,Delhi,2024-10-20,374,2,64984.59,2,1,2,5,Hibernating
+CUST0470,Customer_470,Regular,Hyderabad,2023-09-22,768,3,62725.88,1,2,2,5,Hibernating
+CUST0397,Customer_397,Regular,Ahmedabad,2024-07-03,483,3,61701.76,1,2,2,5,Hibernating
+CUST0194,Customer_194,Regular,Pune,2025-02-05,266,2,52662.37,2,1,2,5,Hibernating
+CUST0320,Customer_320,Regular,Kolkata,2024-02-19,618,3,50497.33,1,2,2,5,Hibernating
+CUST0102,Customer_102,Regular,Delhi,2025-02-13,258,4,47872.23,2,2,1,5,Hibernating
+CUST0078,Customer_78,Budget,Hyderabad,2024-10-12,382,4,45829.83,2,2,1,5,Hibernating
+CUST0382,Customer_382,Regular,Kolkata,2025-02-21,250,3,44977.03,2,2,1,5,Hibernating
+CUST0263,Customer_263,Regular,Chennai,2025-03-17,226,3,44758.22,2,2,1,5,Hibernating
+CUST0067,Customer_67,Regular,Hyderabad,2024-10-24,370,4,44205.78,2,2,1,5,Hibernating
+CUST0038,Customer_38,Regular,Mumbai,2024-12-17,316,4,43859.04,2,2,1,5,Hibernating
+CUST0370,Customer_370,Budget,Pune,2025-02-08,263,3,41664.66,2,2,1,5,Hibernating
+CUST0082,Customer_82,Budget,Hyderabad,2025-04-16,196,2,40823.15,3,1,1,5,Potential Loyalists
+CUST0219,Customer_219,Premium,Ahmedabad,2024-10-24,370,3,36956.48,2,2,1,5,Hibernating
+CUST0482,Customer_482,Budget,Kolkata,2025-02-07,264,3,34783.82,2,2,1,5,Hibernating
+CUST0420,Customer_420,Premium,Kolkata,2023-09-21,769,4,34444.99,1,3,1,5,At Risk
+CUST0022,Customer_22,Regular,Chennai,2024-04-08,569,5,27686.91,1,3,1,5,At Risk
+CUST0116,Customer_116,Budget,Hyderabad,2024-05-28,519,4,24162.78,1,3,1,5,At Risk
+CUST0216,Customer_216,Budget,Chennai,2025-04-08,204,2,21666.87,3,1,1,5,Potential Loyalists
+CUST0089,Customer_89,Premium,Hyderabad,2024-09-30,394,3,18797.48,2,2,1,5,Hibernating
+CUST0261,Customer_261,Premium,Mumbai,2024-07-10,476,4,16454.13,1,3,1,5,At Risk
+CUST0027,Customer_27,Regular,Kolkata,2023-08-29,792,2,101513.29,1,1,2,4,Hibernating
+CUST0170,Customer_170,Regular,Kolkata,2024-04-12,565,2,93075.88,1,1,2,4,Hibernating
+CUST0088,Customer_88,Premium,Mumbai,2024-07-07,479,3,89772.01,1,1,2,4,Hibernating
+CUST0360,Customer_360,Premium,Bangalore,2023-11-10,719,2,66164.08,1,1,2,4,Hibernating
+CUST0432,Customer_432,Budget,Kolkata,2024-04-22,555,1,66100.39,1,1,2,4,Hibernating
+CUST0499,Customer_499,Budget,Mumbai,2024-05-24,523,1,63313.97,1,1,2,4,Hibernating
+CUST0439,Customer_439,Premium,Pune,2024-07-06,480,1,58373.97,1,1,2,4,Hibernating
+CUST0081,Customer_81,Regular,Pune,2024-05-21,526,2,57755.81,1,1,2,4,Hibernating
+CUST0117,Customer_117,Premium,Mumbai,2023-07-17,835,2,56944.52,1,1,2,4,Hibernating
+CUST0322,Customer_322,Premium,Chennai,2023-01-19,1014,1,49460.17,1,1,2,4,Hibernating
+CUST0347,Customer_347,Premium,Bangalore,2025-03-19,224,2,44316.44,2,1,1,4,Hibernating
+CUST0064,Customer_64,Premium,Mumbai,2024-08-10,445,4,40592.25,1,2,1,4,Hibernating
+CUST0362,Customer_362,Regular,Mumbai,2024-07-13,473,3,40531.09,1,2,1,4,Hibernating
+CUST0372,Customer_372,Regular,Ahmedabad,2024-09-21,403,1,39075.97,2,1,1,4,Hibernating
+CUST0059,Customer_59,Budget,Bangalore,2024-11-13,350,3,37803.02,2,1,1,4,Hibernating
+CUST0441,Customer_441,Regular,Mumbai,2025-03-02,241,2,36811.07,2,1,1,4,Hibernating
+CUST0289,Customer_289,Regular,Mumbai,2023-05-25,888,3,36337.08,1,2,1,4,Hibernating
+CUST0246,Customer_246,Budget,Kolkata,2025-01-28,274,2,28990.17,2,1,1,4,Hibernating
+CUST0489,Customer_489,Regular,Mumbai,2024-12-22,311,2,28135.55,2,1,1,4,Hibernating
+CUST0235,Customer_235,Regular,Hyderabad,2024-07-31,455,3,25271.61,1,2,1,4,Hibernating
+CUST0258,Customer_258,Regular,Kolkata,2025-01-25,277,2,23974.43,2,1,1,4,Hibernating
+CUST0150,Customer_150,Regular,Ahmedabad,2024-06-10,506,3,23796.77,1,2,1,4,Hibernating
+CUST0253,Customer_253,Regular,Hyderabad,2025-03-05,238,2,22716.7,2,1,1,4,Hibernating
+CUST0101,Customer_101,Premium,Pune,2024-11-05,358,2,20594.41,2,1,1,4,Hibernating
+CUST0387,Customer_387,Regular,Bangalore,2025-03-10,233,1,17035.72,2,1,1,4,Hibernating
+CUST0177,Customer_177,Premium,Bangalore,2025-02-17,254,2,16659.95,2,1,1,4,Hibernating
+CUST0139,Customer_139,Regular,Pune,2025-01-30,272,1,6349.78,2,1,1,4,Hibernating
+CUST0381,Customer_381,Regular,Ahmedabad,2024-10-10,384,1,2539.44,2,1,1,4,Hibernating
+CUST0472,Customer_472,Budget,Ahmedabad,2023-08-01,820,2,44345.5,1,1,1,3,Hibernating
+CUST0111,Customer_111,Premium,Ahmedabad,2024-05-24,523,1,38339.19,1,1,1,3,Hibernating
+CUST0272,Customer_272,Budget,Ahmedabad,2024-07-16,470,2,37093.04,1,1,1,3,Hibernating
+CUST0210,Customer_210,Regular,Chennai,2023-01-31,1002,1,36341.44,1,1,1,3,Hibernating
+CUST0431,Customer_431,Premium,Mumbai,2024-02-01,636,2,35699.61,1,1,1,3,Hibernating
+CUST0411,Customer_411,Regular,Bangalore,2024-03-24,584,2,33298.91,1,1,1,3,Hibernating
+CUST0104,Customer_104,Premium,Hyderabad,2024-03-08,600,2,32375.13,1,1,1,3,Hibernating
+CUST0096,Customer_96,Regular,Kolkata,2024-05-20,527,2,31461.9,1,1,1,3,Hibernating
+CUST0099,Customer_99,Premium,Kolkata,2024-08-09,446,2,31203.9,1,1,1,3,Hibernating
+CUST0062,Customer_62,Regular,Pune,2023-08-30,791,2,29229.75,1,1,1,3,Hibernating
+CUST0149,Customer_149,Budget,Mumbai,2023-11-03,726,2,26198.39,1,1,1,3,Hibernating
+CUST0262,Customer_262,Regular,Kolkata,2024-07-07,479,1,24008.32,1,1,1,3,Hibernating
+CUST0105,Customer_105,Premium,Delhi,2024-04-28,549,1,23928.37,1,1,1,3,Hibernating
+CUST0165,Customer_165,Premium,Delhi,2023-02-18,984,1,20576.81,1,1,1,3,Hibernating
+CUST0363,Customer_363,Regular,Mumbai,2023-04-29,914,1,19630.58,1,1,1,3,Hibernating
+CUST0379,Customer_379,Premium,Delhi,2023-05-30,883,1,19064.3,1,1,1,3,Hibernating
+CUST0373,Customer_373,Regular,Delhi,2023-02-10,992,1,18445.66,1,1,1,3,Hibernating
+CUST0244,Customer_244,Regular,Mumbai,2024-08-16,439,2,17261.2,1,1,1,3,Hibernating
+CUST0297,Customer_297,Budget,Kolkata,2023-03-17,957,1,17050.48,1,1,1,3,Hibernating
+CUST0018,Customer_18,Budget,Ahmedabad,2024-06-02,514,2,15445.98,1,1,1,3,Hibernating
+CUST0264,Customer_264,Budget,Mumbai,2024-02-01,636,2,12623.76,1,1,1,3,Hibernating
+CUST0308,Customer_308,Budget,Delhi,2023-05-15,898,1,12147.84,1,1,1,3,Hibernating
+CUST0174,Customer_174,Regular,Hyderabad,2023-04-07,936,1,11460.92,1,1,1,3,Hibernating
+CUST0109,Customer_109,Regular,Kolkata,2023-08-19,802,1,10516.74,1,1,1,3,Hibernating
+CUST0413,Customer_413,Regular,Kolkata,2024-04-08,569,2,6590.4,1,1,1,3,Hibernating
+CUST0282,Customer_282,Regular,Hyderabad,2023-08-26,795,1,6175.21,1,1,1,3,Hibernating
+CUST0120,Customer_120,Budget,Chennai,2024-04-19,558,1,5953.42,1,1,1,3,Hibernating

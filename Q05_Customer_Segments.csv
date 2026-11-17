@@ -1,0 +1,4 @@
+segment,customers,orders,revenue,revenue_per_customer,orders_per_customer
+Regular,255,1109,38478532.55,150896.21,4.35
+Budget,134,593,20626936.25,153932.36,4.43
+Premium,111,493,16736443.15,150778.77,4.44

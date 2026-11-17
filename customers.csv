@@ -1,0 +1,501 @@
+customer_id,customer_name,email,city,state,segment,join_date
+CUST0001,Customer_1,customer1@email.com,Pune,Maharashtra,Regular,2023-10-17
+CUST0002,Customer_2,customer2@email.com,Hyderabad,Telangana,Regular,2022-04-25
+CUST0003,Customer_3,customer3@email.com,Chennai,Tamil Nadu,Regular,2022-01-26
+CUST0004,Customer_4,customer4@email.com,Pune,Maharashtra,Budget,2024-01-30
+CUST0005,Customer_5,customer5@email.com,Bangalore,Karnataka,Regular,2022-10-09
+CUST0006,Customer_6,customer6@email.com,Ahmedabad,Gujarat,Premium,2022-09-08
+CUST0007,Customer_7,customer7@email.com,Chennai,Tamil Nadu,Budget,2022-08-17
+CUST0008,Customer_8,customer8@email.com,Chennai,Tamil Nadu,Budget,2022-05-23
+CUST0009,Customer_9,customer9@email.com,Pune,Maharashtra,Budget,2024-01-25
+CUST0010,Customer_10,customer10@email.com,Delhi,Delhi,Budget,2022-04-15
+CUST0011,Customer_11,customer11@email.com,Bangalore,Karnataka,Regular,2023-11-24
+CUST0012,Customer_12,customer12@email.com,Pune,Maharashtra,Regular,2024-01-29
+CUST0013,Customer_13,customer13@email.com,Bangalore,Karnataka,Budget,2023-07-13
+CUST0014,Customer_14,customer14@email.com,Bangalore,Karnataka,Budget,2022-03-31
+CUST0015,Customer_15,customer15@email.com,Ahmedabad,Gujarat,Premium,2023-08-28
+CUST0016,Customer_16,customer16@email.com,Chennai,Tamil Nadu,Premium,2023-03-09
+CUST0017,Customer_17,customer17@email.com,Hyderabad,Telangana,Regular,2022-02-02
+CUST0018,Customer_18,customer18@email.com,Ahmedabad,Gujarat,Budget,2022-01-31
+CUST0019,Customer_19,customer19@email.com,Ahmedabad,Gujarat,Budget,2022-04-06
+CUST0020,Customer_20,customer20@email.com,Bangalore,Karnataka,Premium,2022-08-12
+CUST0021,Customer_21,customer21@email.com,Kolkata,West Bengal,Regular,2022-08-27
+CUST0022,Customer_22,customer22@email.com,Chennai,Tamil Nadu,Regular,2023-06-02
+CUST0023,Customer_23,customer23@email.com,Delhi,Delhi,Budget,2023-09-09
+CUST0024,Customer_24,customer24@email.com,Ahmedabad,Gujarat,Budget,2022-01-28
+CUST0025,Customer_25,customer25@email.com,Hyderabad,Telangana,Budget,2023-07-29
+CUST0026,Customer_26,customer26@email.com,Kolkata,West Bengal,Regular,2022-07-23
+CUST0027,Customer_27,customer27@email.com,Kolkata,West Bengal,Regular,2024-01-04
+CUST0028,Customer_28,customer28@email.com,Delhi,Delhi,Regular,2023-10-28
+CUST0029,Customer_29,customer29@email.com,Ahmedabad,Gujarat,Premium,2023-12-20
+CUST0030,Customer_30,customer30@email.com,Hyderabad,Telangana,Budget,2023-07-13
+CUST0031,Customer_31,customer31@email.com,Chennai,Tamil Nadu,Budget,2023-03-06
+CUST0032,Customer_32,customer32@email.com,Mumbai,Maharashtra,Budget,2022-08-14
+CUST0033,Customer_33,customer33@email.com,Hyderabad,Telangana,Budget,2023-04-05
+CUST0034,Customer_34,customer34@email.com,Delhi,Delhi,Regular,2023-08-27
+CUST0035,Customer_35,customer35@email.com,Kolkata,West Bengal,Budget,2022-10-12
+CUST0036,Customer_36,customer36@email.com,Chennai,Tamil Nadu,Budget,2024-04-08
+CUST0037,Customer_37,customer37@email.com,Hyderabad,Telangana,Budget,2024-06-09
+CUST0038,Customer_38,customer38@email.com,Mumbai,Maharashtra,Regular,2022-01-07
+CUST0039,Customer_39,customer39@email.com,Mumbai,Maharashtra,Regular,2024-02-17
+CUST0040,Customer_40,customer40@email.com,Bangalore,Karnataka,Premium,2024-04-05
+CUST0041,Customer_41,customer41@email.com,Bangalore,Karnataka,Budget,2022-06-13
+CUST0042,Customer_42,customer42@email.com,Pune,Maharashtra,Regular,2023-12-16
+CUST0043,Customer_43,customer43@email.com,Delhi,Delhi,Regular,2023-03-09
+CUST0044,Customer_44,customer44@email.com,Ahmedabad,Gujarat,Regular,2022-12-15
+CUST0045,Customer_45,customer45@email.com,Hyderabad,Telangana,Regular,2022-10-12
+CUST0046,Customer_46,customer46@email.com,Hyderabad,Telangana,Regular,2022-06-09
+CUST0047,Customer_47,customer47@email.com,Ahmedabad,Gujarat,Premium,2022-08-09
+CUST0048,Customer_48,customer48@email.com,Pune,Maharashtra,Regular,2024-02-21
+CUST0049,Customer_49,customer49@email.com,Kolkata,West Bengal,Regular,2022-12-11
+CUST0050,Customer_50,customer50@email.com,Kolkata,West Bengal,Budget,2022-04-15
+CUST0051,Customer_51,customer51@email.com,Pune,Maharashtra,Regular,2022-04-05
+CUST0052,Customer_52,customer52@email.com,Kolkata,West Bengal,Budget,2023-01-25
+CUST0053,Customer_53,customer53@email.com,Bangalore,Karnataka,Regular,2022-04-10
+CUST0054,Customer_54,customer54@email.com,Hyderabad,Telangana,Regular,2023-01-03
+CUST0055,Customer_55,customer55@email.com,Pune,Maharashtra,Budget,2024-05-17
+CUST0056,Customer_56,customer56@email.com,Hyderabad,Telangana,Regular,2022-12-19
+CUST0057,Customer_57,customer57@email.com,Ahmedabad,Gujarat,Premium,2023-09-11
+CUST0058,Customer_58,customer58@email.com,Mumbai,Maharashtra,Premium,2022-09-28
+CUST0059,Customer_59,customer59@email.com,Bangalore,Karnataka,Budget,2024-04-06
+CUST0060,Customer_60,customer60@email.com,Chennai,Tamil Nadu,Regular,2022-02-14
+CUST0061,Customer_61,customer61@email.com,Bangalore,Karnataka,Budget,2024-01-18
+CUST0062,Customer_62,customer62@email.com,Pune,Maharashtra,Regular,2023-04-16
+CUST0063,Customer_63,customer63@email.com,Chennai,Tamil Nadu,Premium,2023-07-04
+CUST0064,Customer_64,customer64@email.com,Mumbai,Maharashtra,Premium,2022-05-08
+CUST0065,Customer_65,customer65@email.com,Pune,Maharashtra,Regular,2023-01-23
+CUST0066,Customer_66,customer66@email.com,Delhi,Delhi,Regular,2022-03-22
+CUST0067,Customer_67,customer67@email.com,Hyderabad,Telangana,Regular,2023-07-20
+CUST0068,Customer_68,customer68@email.com,Mumbai,Maharashtra,Regular,2022-10-28
+CUST0069,Customer_69,customer69@email.com,Hyderabad,Telangana,Budget,2024-04-29
+CUST0070,Customer_70,customer70@email.com,Kolkata,West Bengal,Regular,2023-10-06
+CUST0071,Customer_71,customer71@email.com,Delhi,Delhi,Regular,2023-09-26
+CUST0072,Customer_72,customer72@email.com,Delhi,Delhi,Budget,2024-06-01
+CUST0073,Customer_73,customer73@email.com,Mumbai,Maharashtra,Regular,2023-01-06
+CUST0074,Customer_74,customer74@email.com,Delhi,Delhi,Regular,2023-08-15
+CUST0075,Customer_75,customer75@email.com,Chennai,Tamil Nadu,Budget,2022-07-16
+CUST0076,Customer_76,customer76@email.com,Delhi,Delhi,Budget,2023-12-23
+CUST0077,Customer_77,customer77@email.com,Hyderabad,Telangana,Premium,2022-03-13
+CUST0078,Customer_78,customer78@email.com,Hyderabad,Telangana,Budget,2022-02-16
+CUST0079,Customer_79,customer79@email.com,Pune,Maharashtra,Regular,2023-11-09
+CUST0080,Customer_80,customer80@email.com,Hyderabad,Telangana,Regular,2022-08-22
+CUST0081,Customer_81,customer81@email.com,Pune,Maharashtra,Regular,2024-03-02
+CUST0082,Customer_82,customer82@email.com,Hyderabad,Telangana,Budget,2022-10-24
+CUST0083,Customer_83,customer83@email.com,Chennai,Tamil Nadu,Regular,2022-03-23
+CUST0084,Customer_84,customer84@email.com,Ahmedabad,Gujarat,Regular,2024-05-25
+CUST0085,Customer_85,customer85@email.com,Pune,Maharashtra,Regular,2022-08-27
+CUST0086,Customer_86,customer86@email.com,Bangalore,Karnataka,Regular,2024-06-06
+CUST0087,Customer_87,customer87@email.com,Kolkata,West Bengal,Premium,2022-04-14
+CUST0088,Customer_88,customer88@email.com,Mumbai,Maharashtra,Premium,2023-01-25
+CUST0089,Customer_89,customer89@email.com,Hyderabad,Telangana,Premium,2022-10-12
+CUST0090,Customer_90,customer90@email.com,Delhi,Delhi,Premium,2023-04-10
+CUST0091,Customer_91,customer91@email.com,Ahmedabad,Gujarat,Premium,2023-10-13
+CUST0092,Customer_92,customer92@email.com,Hyderabad,Telangana,Regular,2024-05-04
+CUST0093,Customer_93,customer93@email.com,Delhi,Delhi,Premium,2023-01-09
+CUST0094,Customer_94,customer94@email.com,Kolkata,West Bengal,Regular,2022-06-16
+CUST0095,Customer_95,customer95@email.com,Kolkata,West Bengal,Budget,2023-01-15
+CUST0096,Customer_96,customer96@email.com,Kolkata,West Bengal,Regular,2022-12-30
+CUST0097,Customer_97,customer97@email.com,Delhi,Delhi,Regular,2022-08-03
+CUST0098,Customer_98,customer98@email.com,Hyderabad,Telangana,Premium,2023-11-18
+CUST0099,Customer_99,customer99@email.com,Kolkata,West Bengal,Premium,2022-10-01
+CUST0100,Customer_100,customer100@email.com,Chennai,Tamil Nadu,Premium,2023-12-20
+CUST0101,Customer_101,customer101@email.com,Pune,Maharashtra,Premium,2023-12-01
+CUST0102,Customer_102,customer102@email.com,Delhi,Delhi,Regular,2023-10-26
+CUST0103,Customer_103,customer103@email.com,Delhi,Delhi,Premium,2022-03-15
+CUST0104,Customer_104,customer104@email.com,Hyderabad,Telangana,Premium,2023-09-16
+CUST0105,Customer_105,customer105@email.com,Delhi,Delhi,Premium,2023-10-13
+CUST0106,Customer_106,customer106@email.com,Delhi,Delhi,Regular,2022-06-25
+CUST0107,Customer_107,customer107@email.com,Kolkata,West Bengal,Regular,2023-07-01
+CUST0108,Customer_108,customer108@email.com,Hyderabad,Telangana,Regular,2024-01-17
+CUST0109,Customer_109,customer109@email.com,Kolkata,West Bengal,Regular,2022-09-08
+CUST0110,Customer_110,customer110@email.com,Pune,Maharashtra,Regular,2022-06-17
+CUST0111,Customer_111,customer111@email.com,Ahmedabad,Gujarat,Premium,2023-04-19
+CUST0112,Customer_112,customer112@email.com,Pune,Maharashtra,Budget,2023-01-24
+CUST0113,Customer_113,customer113@email.com,Ahmedabad,Gujarat,Regular,2022-10-04
+CUST0114,Customer_114,customer114@email.com,Kolkata,West Bengal,Premium,2023-10-18
+CUST0115,Customer_115,customer115@email.com,Pune,Maharashtra,Budget,2023-12-06
+CUST0116,Customer_116,customer116@email.com,Hyderabad,Telangana,Budget,2023-07-25
+CUST0117,Customer_117,customer117@email.com,Mumbai,Maharashtra,Premium,2022-08-13
+CUST0118,Customer_118,customer118@email.com,Kolkata,West Bengal,Regular,2023-12-03
+CUST0119,Customer_119,customer119@email.com,Ahmedabad,Gujarat,Budget,2022-11-29
+CUST0120,Customer_120,customer120@email.com,Chennai,Tamil Nadu,Budget,2024-05-13
+CUST0121,Customer_121,customer121@email.com,Ahmedabad,Gujarat,Premium,2024-02-26
+CUST0122,Customer_122,customer122@email.com,Chennai,Tamil Nadu,Regular,2024-03-05
+CUST0123,Customer_123,customer123@email.com,Delhi,Delhi,Regular,2022-02-27
+CUST0124,Customer_124,customer124@email.com,Pune,Maharashtra,Regular,2022-08-23
+CUST0125,Customer_125,customer125@email.com,Chennai,Tamil Nadu,Regular,2024-04-21
+CUST0126,Customer_126,customer126@email.com,Ahmedabad,Gujarat,Regular,2022-02-02
+CUST0127,Customer_127,customer127@email.com,Delhi,Delhi,Regular,2024-04-04
+CUST0128,Customer_128,customer128@email.com,Mumbai,Maharashtra,Budget,2022-11-20
+CUST0129,Customer_129,customer129@email.com,Hyderabad,Telangana,Premium,2023-02-15
+CUST0130,Customer_130,customer130@email.com,Hyderabad,Telangana,Regular,2022-10-02
+CUST0131,Customer_131,customer131@email.com,Hyderabad,Telangana,Budget,2022-03-09
+CUST0132,Customer_132,customer132@email.com,Chennai,Tamil Nadu,Budget,2022-08-05
+CUST0133,Customer_133,customer133@email.com,Mumbai,Maharashtra,Regular,2023-08-04
+CUST0134,Customer_134,customer134@email.com,Chennai,Tamil Nadu,Regular,2024-06-16
+CUST0135,Customer_135,customer135@email.com,Pune,Maharashtra,Premium,2024-01-06
+CUST0136,Customer_136,customer136@email.com,Chennai,Tamil Nadu,Regular,2022-11-19
+CUST0137,Customer_137,customer137@email.com,Mumbai,Maharashtra,Regular,2022-08-06
+CUST0138,Customer_138,customer138@email.com,Mumbai,Maharashtra,Regular,2023-11-03
+CUST0139,Customer_139,customer139@email.com,Pune,Maharashtra,Regular,2023-05-27
+CUST0140,Customer_140,customer140@email.com,Mumbai,Maharashtra,Regular,2023-02-10
+CUST0141,Customer_141,customer141@email.com,Ahmedabad,Gujarat,Premium,2023-10-21
+CUST0142,Customer_142,customer142@email.com,Mumbai,Maharashtra,Regular,2023-04-15
+CUST0143,Customer_143,customer143@email.com,Hyderabad,Telangana,Regular,2022-05-27
+CUST0144,Customer_144,customer144@email.com,Ahmedabad,Gujarat,Regular,2022-09-29
+CUST0145,Customer_145,customer145@email.com,Ahmedabad,Gujarat,Premium,2022-05-23
+CUST0146,Customer_146,customer146@email.com,Pune,Maharashtra,Budget,2022-09-10
+CUST0147,Customer_147,customer147@email.com,Bangalore,Karnataka,Regular,2024-02-02
+CUST0148,Customer_148,customer148@email.com,Bangalore,Karnataka,Regular,2023-07-29
+CUST0149,Customer_149,customer149@email.com,Mumbai,Maharashtra,Budget,2023-07-06
+CUST0150,Customer_150,customer150@email.com,Ahmedabad,Gujarat,Regular,2022-09-27
+CUST0151,Customer_151,customer151@email.com,Bangalore,Karnataka,Premium,2024-02-04
+CUST0152,Customer_152,customer152@email.com,Bangalore,Karnataka,Regular,2023-08-22
+CUST0153,Customer_153,customer153@email.com,Mumbai,Maharashtra,Regular,2023-03-15
+CUST0154,Customer_154,customer154@email.com,Bangalore,Karnataka,Budget,2023-08-21
+CUST0155,Customer_155,customer155@email.com,Chennai,Tamil Nadu,Regular,2023-02-13
+CUST0156,Customer_156,customer156@email.com,Delhi,Delhi,Premium,2023-01-06
+CUST0157,Customer_157,customer157@email.com,Pune,Maharashtra,Regular,2022-08-13
+CUST0158,Customer_158,customer158@email.com,Delhi,Delhi,Regular,2022-05-22
+CUST0159,Customer_159,customer159@email.com,Mumbai,Maharashtra,Regular,2023-06-06
+CUST0160,Customer_160,customer160@email.com,Hyderabad,Telangana,Regular,2023-05-21
+CUST0161,Customer_161,customer161@email.com,Pune,Maharashtra,Regular,2022-04-04
+CUST0162,Customer_162,customer162@email.com,Mumbai,Maharashtra,Budget,2024-02-13
+CUST0163,Customer_163,customer163@email.com,Ahmedabad,Gujarat,Regular,2022-02-18
+CUST0164,Customer_164,customer164@email.com,Hyderabad,Telangana,Regular,2024-05-31
+CUST0165,Customer_165,customer165@email.com,Delhi,Delhi,Premium,2022-04-23
+CUST0166,Customer_166,customer166@email.com,Mumbai,Maharashtra,Premium,2022-06-06
+CUST0167,Customer_167,customer167@email.com,Ahmedabad,Gujarat,Regular,2023-10-05
+CUST0168,Customer_168,customer168@email.com,Pune,Maharashtra,Premium,2022-06-13
+CUST0169,Customer_169,customer169@email.com,Pune,Maharashtra,Premium,2024-03-22
+CUST0170,Customer_170,customer170@email.com,Kolkata,West Bengal,Regular,2023-11-28
+CUST0171,Customer_171,customer171@email.com,Ahmedabad,Gujarat,Premium,2023-03-09
+CUST0172,Customer_172,customer172@email.com,Chennai,Tamil Nadu,Budget,2023-09-03
+CUST0173,Customer_173,customer173@email.com,Bangalore,Karnataka,Premium,2022-03-07
+CUST0174,Customer_174,customer174@email.com,Hyderabad,Telangana,Regular,2023-01-30
+CUST0175,Customer_175,customer175@email.com,Ahmedabad,Gujarat,Regular,2023-01-26
+CUST0176,Customer_176,customer176@email.com,Kolkata,West Bengal,Budget,2023-09-03
+CUST0177,Customer_177,customer177@email.com,Bangalore,Karnataka,Premium,2023-04-25
+CUST0178,Customer_178,customer178@email.com,Bangalore,Karnataka,Regular,2023-06-26
+CUST0179,Customer_179,customer179@email.com,Mumbai,Maharashtra,Budget,2022-09-15
+CUST0180,Customer_180,customer180@email.com,Bangalore,Karnataka,Budget,2023-07-21
+CUST0181,Customer_181,customer181@email.com,Chennai,Tamil Nadu,Budget,2024-05-31
+CUST0182,Customer_182,customer182@email.com,Pune,Maharashtra,Regular,2022-01-12
+CUST0183,Customer_183,customer183@email.com,Kolkata,West Bengal,Premium,2023-11-28
+CUST0184,Customer_184,customer184@email.com,Bangalore,Karnataka,Regular,2024-01-09
+CUST0185,Customer_185,customer185@email.com,Mumbai,Maharashtra,Budget,2022-04-28
+CUST0186,Customer_186,customer186@email.com,Chennai,Tamil Nadu,Regular,2023-11-30
+CUST0187,Customer_187,customer187@email.com,Delhi,Delhi,Regular,2023-07-04
+CUST0188,Customer_188,customer188@email.com,Pune,Maharashtra,Regular,2024-02-08
+CUST0189,Customer_189,customer189@email.com,Pune,Maharashtra,Budget,2022-10-01
+CUST0190,Customer_190,customer190@email.com,Kolkata,West Bengal,Premium,2024-02-27
+CUST0191,Customer_191,customer191@email.com,Pune,Maharashtra,Regular,2023-10-19
+CUST0192,Customer_192,customer192@email.com,Bangalore,Karnataka,Regular,2022-12-15
+CUST0193,Customer_193,customer193@email.com,Mumbai,Maharashtra,Regular,2022-04-25
+CUST0194,Customer_194,customer194@email.com,Pune,Maharashtra,Regular,2022-10-28
+CUST0195,Customer_195,customer195@email.com,Pune,Maharashtra,Premium,2023-03-22
+CUST0196,Customer_196,customer196@email.com,Delhi,Delhi,Regular,2022-06-11
+CUST0197,Customer_197,customer197@email.com,Delhi,Delhi,Regular,2023-04-10
+CUST0198,Customer_198,customer198@email.com,Hyderabad,Telangana,Regular,2022-01-04
+CUST0199,Customer_199,customer199@email.com,Chennai,Tamil Nadu,Premium,2024-01-10
+CUST0200,Customer_200,customer200@email.com,Bangalore,Karnataka,Regular,2024-06-15
+CUST0201,Customer_201,customer201@email.com,Pune,Maharashtra,Regular,2024-01-07
+CUST0202,Customer_202,customer202@email.com,Ahmedabad,Gujarat,Premium,2022-09-27
+CUST0203,Customer_203,customer203@email.com,Pune,Maharashtra,Regular,2023-05-28
+CUST0204,Customer_204,customer204@email.com,Mumbai,Maharashtra,Premium,2024-02-20
+CUST0205,Customer_205,customer205@email.com,Hyderabad,Telangana,Premium,2022-07-02
+CUST0206,Customer_206,customer206@email.com,Chennai,Tamil Nadu,Budget,2023-06-04
+CUST0207,Customer_207,customer207@email.com,Ahmedabad,Gujarat,Regular,2022-04-19
+CUST0208,Customer_208,customer208@email.com,Hyderabad,Telangana,Budget,2024-06-10
+CUST0209,Customer_209,customer209@email.com,Kolkata,West Bengal,Regular,2023-10-03
+CUST0210,Customer_210,customer210@email.com,Chennai,Tamil Nadu,Regular,2022-11-02
+CUST0211,Customer_211,customer211@email.com,Pune,Maharashtra,Budget,2024-05-11
+CUST0212,Customer_212,customer212@email.com,Pune,Maharashtra,Regular,2023-10-17
+CUST0213,Customer_213,customer213@email.com,Chennai,Tamil Nadu,Regular,2023-06-04
+CUST0214,Customer_214,customer214@email.com,Pune,Maharashtra,Regular,2023-09-16
+CUST0215,Customer_215,customer215@email.com,Bangalore,Karnataka,Regular,2022-07-23
+CUST0216,Customer_216,customer216@email.com,Chennai,Tamil Nadu,Budget,2022-06-06
+CUST0217,Customer_217,customer217@email.com,Hyderabad,Telangana,Budget,2023-01-18
+CUST0218,Customer_218,customer218@email.com,Chennai,Tamil Nadu,Budget,2024-02-20
+CUST0219,Customer_219,customer219@email.com,Ahmedabad,Gujarat,Premium,2022-06-15
+CUST0220,Customer_220,customer220@email.com,Pune,Maharashtra,Budget,2023-07-07
+CUST0221,Customer_221,customer221@email.com,Bangalore,Karnataka,Budget,2024-03-08
+CUST0222,Customer_222,customer222@email.com,Bangalore,Karnataka,Premium,2023-06-28
+CUST0223,Customer_223,customer223@email.com,Kolkata,West Bengal,Premium,2022-01-01
+CUST0224,Customer_224,customer224@email.com,Hyderabad,Telangana,Budget,2023-09-06
+CUST0225,Customer_225,customer225@email.com,Delhi,Delhi,Regular,2022-11-28
+CUST0226,Customer_226,customer226@email.com,Delhi,Delhi,Budget,2023-05-16
+CUST0227,Customer_227,customer227@email.com,Chennai,Tamil Nadu,Premium,2022-01-20
+CUST0228,Customer_228,customer228@email.com,Kolkata,West Bengal,Budget,2022-04-25
+CUST0229,Customer_229,customer229@email.com,Mumbai,Maharashtra,Regular,2023-01-07
+CUST0230,Customer_230,customer230@email.com,Chennai,Tamil Nadu,Premium,2024-06-18
+CUST0231,Customer_231,customer231@email.com,Kolkata,West Bengal,Premium,2024-05-01
+CUST0232,Customer_232,customer232@email.com,Hyderabad,Telangana,Budget,2024-04-06
+CUST0233,Customer_233,customer233@email.com,Hyderabad,Telangana,Regular,2022-11-11
+CUST0234,Customer_234,customer234@email.com,Hyderabad,Telangana,Regular,2022-09-03
+CUST0235,Customer_235,customer235@email.com,Hyderabad,Telangana,Regular,2022-03-01
+CUST0236,Customer_236,customer236@email.com,Hyderabad,Telangana,Budget,2022-09-04
+CUST0237,Customer_237,customer237@email.com,Kolkata,West Bengal,Regular,2024-06-18
+CUST0238,Customer_238,customer238@email.com,Kolkata,West Bengal,Budget,2023-08-04
+CUST0239,Customer_239,customer239@email.com,Bangalore,Karnataka,Regular,2022-03-22
+CUST0240,Customer_240,customer240@email.com,Ahmedabad,Gujarat,Regular,2022-03-29
+CUST0241,Customer_241,customer241@email.com,Delhi,Delhi,Regular,2024-01-20
+CUST0242,Customer_242,customer242@email.com,Pune,Maharashtra,Regular,2023-05-13
+CUST0243,Customer_243,customer243@email.com,Hyderabad,Telangana,Budget,2024-04-15
+CUST0244,Customer_244,customer244@email.com,Mumbai,Maharashtra,Regular,2022-03-12
+CUST0245,Customer_245,customer245@email.com,Pune,Maharashtra,Regular,2024-02-18
+CUST0246,Customer_246,customer246@email.com,Kolkata,West Bengal,Budget,2023-06-30
+CUST0247,Customer_247,customer247@email.com,Mumbai,Maharashtra,Regular,2024-02-24
+CUST0248,Customer_248,customer248@email.com,Mumbai,Maharashtra,Regular,2022-05-09
+CUST0249,Customer_249,customer249@email.com,Mumbai,Maharashtra,Budget,2022-05-12
+CUST0250,Customer_250,customer250@email.com,Bangalore,Karnataka,Regular,2023-11-07
+CUST0251,Customer_251,customer251@email.com,Kolkata,West Bengal,Premium,2023-05-02
+CUST0252,Customer_252,customer252@email.com,Mumbai,Maharashtra,Budget,2023-07-17
+CUST0253,Customer_253,customer253@email.com,Hyderabad,Telangana,Regular,2022-06-19
+CUST0254,Customer_254,customer254@email.com,Chennai,Tamil Nadu,Regular,2022-09-29
+CUST0255,Customer_255,customer255@email.com,Mumbai,Maharashtra,Premium,2023-06-25
+CUST0256,Customer_256,customer256@email.com,Bangalore,Karnataka,Budget,2024-06-12
+CUST0257,Customer_257,customer257@email.com,Pune,Maharashtra,Regular,2023-09-14
+CUST0258,Customer_258,customer258@email.com,Kolkata,West Bengal,Regular,2023-03-10
+CUST0259,Customer_259,customer259@email.com,Ahmedabad,Gujarat,Budget,2022-08-05
+CUST0260,Customer_260,customer260@email.com,Bangalore,Karnataka,Budget,2023-07-07
+CUST0261,Customer_261,customer261@email.com,Mumbai,Maharashtra,Premium,2024-02-13
+CUST0262,Customer_262,customer262@email.com,Kolkata,West Bengal,Regular,2024-01-18
+CUST0263,Customer_263,customer263@email.com,Chennai,Tamil Nadu,Regular,2023-12-08
+CUST0264,Customer_264,customer264@email.com,Mumbai,Maharashtra,Budget,2022-07-25
+CUST0265,Customer_265,customer265@email.com,Bangalore,Karnataka,Premium,2024-01-01
+CUST0266,Customer_266,customer266@email.com,Delhi,Delhi,Regular,2022-11-16
+CUST0267,Customer_267,customer267@email.com,Hyderabad,Telangana,Budget,2023-02-13
+CUST0268,Customer_268,customer268@email.com,Ahmedabad,Gujarat,Budget,2023-11-19
+CUST0269,Customer_269,customer269@email.com,Pune,Maharashtra,Regular,2023-10-28
+CUST0270,Customer_270,customer270@email.com,Bangalore,Karnataka,Budget,2023-01-18
+CUST0271,Customer_271,customer271@email.com,Kolkata,West Bengal,Premium,2023-03-25
+CUST0272,Customer_272,customer272@email.com,Ahmedabad,Gujarat,Budget,2023-06-14
+CUST0273,Customer_273,customer273@email.com,Ahmedabad,Gujarat,Premium,2023-04-08
+CUST0274,Customer_274,customer274@email.com,Ahmedabad,Gujarat,Regular,2022-05-04
+CUST0275,Customer_275,customer275@email.com,Mumbai,Maharashtra,Budget,2022-09-11
+CUST0276,Customer_276,customer276@email.com,Hyderabad,Telangana,Premium,2022-08-19
+CUST0277,Customer_277,customer277@email.com,Mumbai,Maharashtra,Regular,2022-03-07
+CUST0278,Customer_278,customer278@email.com,Kolkata,West Bengal,Budget,2022-12-13
+CUST0279,Customer_279,customer279@email.com,Mumbai,Maharashtra,Budget,2022-01-22
+CUST0280,Customer_280,customer280@email.com,Delhi,Delhi,Regular,2023-08-26
+CUST0281,Customer_281,customer281@email.com,Hyderabad,Telangana,Regular,2023-07-22
+CUST0282,Customer_282,customer282@email.com,Hyderabad,Telangana,Regular,2022-08-24
+CUST0283,Customer_283,customer283@email.com,Kolkata,West Bengal,Regular,2023-08-26
+CUST0284,Customer_284,customer284@email.com,Pune,Maharashtra,Regular,2022-08-14
+CUST0285,Customer_285,customer285@email.com,Delhi,Delhi,Premium,2022-01-08
+CUST0286,Customer_286,customer286@email.com,Bangalore,Karnataka,Budget,2022-03-14
+CUST0287,Customer_287,customer287@email.com,Mumbai,Maharashtra,Regular,2023-12-26
+CUST0288,Customer_288,customer288@email.com,Chennai,Tamil Nadu,Regular,2023-10-09
+CUST0289,Customer_289,customer289@email.com,Mumbai,Maharashtra,Regular,2022-03-02
+CUST0290,Customer_290,customer290@email.com,Ahmedabad,Gujarat,Budget,2022-08-23
+CUST0291,Customer_291,customer291@email.com,Mumbai,Maharashtra,Premium,2022-03-11
+CUST0292,Customer_292,customer292@email.com,Bangalore,Karnataka,Regular,2022-02-02
+CUST0293,Customer_293,customer293@email.com,Mumbai,Maharashtra,Regular,2024-05-30
+CUST0294,Customer_294,customer294@email.com,Delhi,Delhi,Regular,2022-12-05
+CUST0295,Customer_295,customer295@email.com,Delhi,Delhi,Premium,2022-03-14
+CUST0296,Customer_296,customer296@email.com,Hyderabad,Telangana,Budget,2023-06-11
+CUST0297,Customer_297,customer297@email.com,Kolkata,West Bengal,Budget,2022-09-01
+CUST0298,Customer_298,customer298@email.com,Pune,Maharashtra,Regular,2022-10-13
+CUST0299,Customer_299,customer299@email.com,Chennai,Tamil Nadu,Regular,2023-11-17
+CUST0300,Customer_300,customer300@email.com,Ahmedabad,Gujarat,Budget,2023-05-13
+CUST0301,Customer_301,customer301@email.com,Mumbai,Maharashtra,Budget,2022-08-08
+CUST0302,Customer_302,customer302@email.com,Mumbai,Maharashtra,Premium,2023-07-07
+CUST0303,Customer_303,customer303@email.com,Bangalore,Karnataka,Regular,2022-05-16
+CUST0304,Customer_304,customer304@email.com,Kolkata,West Bengal,Regular,2024-01-11
+CUST0305,Customer_305,customer305@email.com,Delhi,Delhi,Regular,2023-08-08
+CUST0306,Customer_306,customer306@email.com,Chennai,Tamil Nadu,Budget,2023-08-14
+CUST0307,Customer_307,customer307@email.com,Hyderabad,Telangana,Budget,2023-04-30
+CUST0308,Customer_308,customer308@email.com,Delhi,Delhi,Budget,2022-09-06
+CUST0309,Customer_309,customer309@email.com,Ahmedabad,Gujarat,Regular,2024-03-14
+CUST0310,Customer_310,customer310@email.com,Kolkata,West Bengal,Premium,2023-04-30
+CUST0311,Customer_311,customer311@email.com,Ahmedabad,Gujarat,Budget,2024-04-06
+CUST0312,Customer_312,customer312@email.com,Pune,Maharashtra,Budget,2023-02-21
+CUST0313,Customer_313,customer313@email.com,Hyderabad,Telangana,Premium,2022-07-14
+CUST0314,Customer_314,customer314@email.com,Pune,Maharashtra,Budget,2022-04-07
+CUST0315,Customer_315,customer315@email.com,Bangalore,Karnataka,Budget,2022-04-10
+CUST0316,Customer_316,customer316@email.com,Ahmedabad,Gujarat,Regular,2023-11-06
+CUST0317,Customer_317,customer317@email.com,Bangalore,Karnataka,Regular,2023-03-18
+CUST0318,Customer_318,customer318@email.com,Mumbai,Maharashtra,Regular,2022-12-29
+CUST0319,Customer_319,customer319@email.com,Pune,Maharashtra,Premium,2023-03-10
+CUST0320,Customer_320,customer320@email.com,Kolkata,West Bengal,Regular,2023-02-25
+CUST0321,Customer_321,customer321@email.com,Ahmedabad,Gujarat,Budget,2023-04-24
+CUST0322,Customer_322,customer322@email.com,Chennai,Tamil Nadu,Premium,2024-06-03
+CUST0323,Customer_323,customer323@email.com,Hyderabad,Telangana,Regular,2024-01-17
+CUST0324,Customer_324,customer324@email.com,Delhi,Delhi,Regular,2022-02-25
+CUST0325,Customer_325,customer325@email.com,Kolkata,West Bengal,Regular,2023-11-21
+CUST0326,Customer_326,customer326@email.com,Kolkata,West Bengal,Budget,2023-11-01
+CUST0327,Customer_327,customer327@email.com,Bangalore,Karnataka,Regular,2023-10-24
+CUST0328,Customer_328,customer328@email.com,Pune,Maharashtra,Regular,2022-04-11
+CUST0329,Customer_329,customer329@email.com,Ahmedabad,Gujarat,Budget,2022-03-04
+CUST0330,Customer_330,customer330@email.com,Ahmedabad,Gujarat,Regular,2023-02-17
+CUST0331,Customer_331,customer331@email.com,Mumbai,Maharashtra,Regular,2024-01-16
+CUST0332,Customer_332,customer332@email.com,Mumbai,Maharashtra,Regular,2022-12-14
+CUST0333,Customer_333,customer333@email.com,Hyderabad,Telangana,Premium,2024-03-30
+CUST0334,Customer_334,customer334@email.com,Bangalore,Karnataka,Premium,2024-06-01
+CUST0335,Customer_335,customer335@email.com,Kolkata,West Bengal,Regular,2022-04-22
+CUST0336,Customer_336,customer336@email.com,Ahmedabad,Gujarat,Regular,2022-09-12
+CUST0337,Customer_337,customer337@email.com,Chennai,Tamil Nadu,Budget,2022-07-16
+CUST0338,Customer_338,customer338@email.com,Bangalore,Karnataka,Regular,2022-07-14
+CUST0339,Customer_339,customer339@email.com,Hyderabad,Telangana,Regular,2023-07-04
+CUST0340,Customer_340,customer340@email.com,Hyderabad,Telangana,Regular,2023-04-05
+CUST0341,Customer_341,customer341@email.com,Bangalore,Karnataka,Premium,2022-05-24
+CUST0342,Customer_342,customer342@email.com,Hyderabad,Telangana,Regular,2023-03-09
+CUST0343,Customer_343,customer343@email.com,Bangalore,Karnataka,Premium,2022-07-07
+CUST0344,Customer_344,customer344@email.com,Delhi,Delhi,Budget,2022-10-13
+CUST0345,Customer_345,customer345@email.com,Bangalore,Karnataka,Premium,2023-04-19
+CUST0346,Customer_346,customer346@email.com,Pune,Maharashtra,Regular,2022-09-13
+CUST0347,Customer_347,customer347@email.com,Bangalore,Karnataka,Premium,2024-06-14
+CUST0348,Customer_348,customer348@email.com,Hyderabad,Telangana,Budget,2022-03-19
+CUST0349,Customer_349,customer349@email.com,Ahmedabad,Gujarat,Regular,2023-03-30
+CUST0350,Customer_350,customer350@email.com,Pune,Maharashtra,Regular,2024-04-07
+CUST0351,Customer_351,customer351@email.com,Hyderabad,Telangana,Premium,2024-06-01
+CUST0352,Customer_352,customer352@email.com,Mumbai,Maharashtra,Budget,2024-05-26
+CUST0353,Customer_353,customer353@email.com,Mumbai,Maharashtra,Regular,2023-07-18
+CUST0354,Customer_354,customer354@email.com,Ahmedabad,Gujarat,Budget,2022-04-11
+CUST0355,Customer_355,customer355@email.com,Ahmedabad,Gujarat,Regular,2022-02-21
+CUST0356,Customer_356,customer356@email.com,Pune,Maharashtra,Premium,2023-10-30
+CUST0357,Customer_357,customer357@email.com,Delhi,Delhi,Premium,2023-07-08
+CUST0358,Customer_358,customer358@email.com,Ahmedabad,Gujarat,Regular,2024-05-06
+CUST0359,Customer_359,customer359@email.com,Mumbai,Maharashtra,Regular,2022-01-16
+CUST0360,Customer_360,customer360@email.com,Bangalore,Karnataka,Premium,2022-04-06
+CUST0361,Customer_361,customer361@email.com,Hyderabad,Telangana,Budget,2024-02-11
+CUST0362,Customer_362,customer362@email.com,Mumbai,Maharashtra,Regular,2024-05-19
+CUST0363,Customer_363,customer363@email.com,Mumbai,Maharashtra,Regular,2022-08-31
+CUST0364,Customer_364,customer364@email.com,Delhi,Delhi,Regular,2022-06-20
+CUST0365,Customer_365,customer365@email.com,Pune,Maharashtra,Regular,2023-02-21
+CUST0366,Customer_366,customer366@email.com,Pune,Maharashtra,Regular,2023-05-13
+CUST0367,Customer_367,customer367@email.com,Kolkata,West Bengal,Premium,2023-05-08
+CUST0368,Customer_368,customer368@email.com,Delhi,Delhi,Premium,2022-08-07
+CUST0369,Customer_369,customer369@email.com,Bangalore,Karnataka,Budget,2024-06-04
+CUST0370,Customer_370,customer370@email.com,Pune,Maharashtra,Budget,2023-02-15
+CUST0371,Customer_371,customer371@email.com,Hyderabad,Telangana,Regular,2022-03-02
+CUST0372,Customer_372,customer372@email.com,Ahmedabad,Gujarat,Regular,2022-06-18
+CUST0373,Customer_373,customer373@email.com,Delhi,Delhi,Regular,2023-01-24
+CUST0374,Customer_374,customer374@email.com,Ahmedabad,Gujarat,Regular,2022-01-03
+CUST0375,Customer_375,customer375@email.com,Mumbai,Maharashtra,Premium,2023-02-04
+CUST0376,Customer_376,customer376@email.com,Hyderabad,Telangana,Premium,2022-09-29
+CUST0377,Customer_377,customer377@email.com,Hyderabad,Telangana,Budget,2024-03-13
+CUST0378,Customer_378,customer378@email.com,Mumbai,Maharashtra,Regular,2024-03-14
+CUST0379,Customer_379,customer379@email.com,Delhi,Delhi,Premium,2023-04-11
+CUST0380,Customer_380,customer380@email.com,Mumbai,Maharashtra,Regular,2022-10-20
+CUST0381,Customer_381,customer381@email.com,Ahmedabad,Gujarat,Regular,2023-03-10
+CUST0382,Customer_382,customer382@email.com,Kolkata,West Bengal,Regular,2023-12-15
+CUST0383,Customer_383,customer383@email.com,Hyderabad,Telangana,Premium,2024-01-19
+CUST0384,Customer_384,customer384@email.com,Chennai,Tamil Nadu,Premium,2024-03-13
+CUST0385,Customer_385,customer385@email.com,Chennai,Tamil Nadu,Budget,2023-07-24
+CUST0386,Customer_386,customer386@email.com,Ahmedabad,Gujarat,Premium,2023-11-09
+CUST0387,Customer_387,customer387@email.com,Bangalore,Karnataka,Regular,2024-01-06
+CUST0388,Customer_388,customer388@email.com,Pune,Maharashtra,Regular,2023-05-14
+CUST0389,Customer_389,customer389@email.com,Mumbai,Maharashtra,Premium,2022-06-08
+CUST0390,Customer_390,customer390@email.com,Mumbai,Maharashtra,Regular,2022-07-14
+CUST0391,Customer_391,customer391@email.com,Bangalore,Karnataka,Budget,2022-10-31
+CUST0392,Customer_392,customer392@email.com,Bangalore,Karnataka,Budget,2022-08-11
+CUST0393,Customer_393,customer393@email.com,Ahmedabad,Gujarat,Budget,2022-03-01
+CUST0394,Customer_394,customer394@email.com,Ahmedabad,Gujarat,Regular,2023-08-17
+CUST0395,Customer_395,customer395@email.com,Bangalore,Karnataka,Regular,2024-01-24
+CUST0396,Customer_396,customer396@email.com,Hyderabad,Telangana,Regular,2023-07-10
+CUST0397,Customer_397,customer397@email.com,Ahmedabad,Gujarat,Regular,2022-03-04
+CUST0398,Customer_398,customer398@email.com,Kolkata,West Bengal,Budget,2024-02-05
+CUST0399,Customer_399,customer399@email.com,Ahmedabad,Gujarat,Premium,2022-11-18
+CUST0400,Customer_400,customer400@email.com,Mumbai,Maharashtra,Premium,2022-02-28
+CUST0401,Customer_401,customer401@email.com,Ahmedabad,Gujarat,Regular,2022-02-21
+CUST0402,Customer_402,customer402@email.com,Hyderabad,Telangana,Premium,2023-08-22
+CUST0403,Customer_403,customer403@email.com,Bangalore,Karnataka,Premium,2023-05-04
+CUST0404,Customer_404,customer404@email.com,Mumbai,Maharashtra,Regular,2023-05-30
+CUST0405,Customer_405,customer405@email.com,Ahmedabad,Gujarat,Regular,2024-05-23
+CUST0406,Customer_406,customer406@email.com,Hyderabad,Telangana,Budget,2023-06-28
+CUST0407,Customer_407,customer407@email.com,Kolkata,West Bengal,Budget,2022-06-11
+CUST0408,Customer_408,customer408@email.com,Ahmedabad,Gujarat,Regular,2022-02-28
+CUST0409,Customer_409,customer409@email.com,Hyderabad,Telangana,Regular,2023-06-05
+CUST0410,Customer_410,customer410@email.com,Kolkata,West Bengal,Regular,2022-03-24
+CUST0411,Customer_411,customer411@email.com,Bangalore,Karnataka,Regular,2024-05-21
+CUST0412,Customer_412,customer412@email.com,Ahmedabad,Gujarat,Regular,2022-07-10
+CUST0413,Customer_413,customer413@email.com,Kolkata,West Bengal,Regular,2022-03-12
+CUST0414,Customer_414,customer414@email.com,Mumbai,Maharashtra,Regular,2023-09-02
+CUST0415,Customer_415,customer415@email.com,Bangalore,Karnataka,Regular,2022-03-11
+CUST0416,Customer_416,customer416@email.com,Mumbai,Maharashtra,Regular,2023-11-23
+CUST0417,Customer_417,customer417@email.com,Chennai,Tamil Nadu,Regular,2024-06-01
+CUST0418,Customer_418,customer418@email.com,Delhi,Delhi,Budget,2022-08-29
+CUST0419,Customer_419,customer419@email.com,Ahmedabad,Gujarat,Budget,2023-02-18
+CUST0420,Customer_420,customer420@email.com,Kolkata,West Bengal,Premium,2022-05-03
+CUST0421,Customer_421,customer421@email.com,Delhi,Delhi,Budget,2023-08-07
+CUST0422,Customer_422,customer422@email.com,Delhi,Delhi,Regular,2022-09-10
+CUST0423,Customer_423,customer423@email.com,Kolkata,West Bengal,Budget,2023-08-16
+CUST0424,Customer_424,customer424@email.com,Bangalore,Karnataka,Budget,2023-09-01
+CUST0425,Customer_425,customer425@email.com,Ahmedabad,Gujarat,Regular,2022-02-10
+CUST0426,Customer_426,customer426@email.com,Chennai,Tamil Nadu,Premium,2023-09-27
+CUST0427,Customer_427,customer427@email.com,Mumbai,Maharashtra,Regular,2022-03-25
+CUST0428,Customer_428,customer428@email.com,Hyderabad,Telangana,Regular,2023-03-06
+CUST0429,Customer_429,customer429@email.com,Mumbai,Maharashtra,Regular,2023-11-05
+CUST0430,Customer_430,customer430@email.com,Hyderabad,Telangana,Regular,2023-08-21
+CUST0431,Customer_431,customer431@email.com,Mumbai,Maharashtra,Premium,2023-08-02
+CUST0432,Customer_432,customer432@email.com,Kolkata,West Bengal,Budget,2023-06-20
+CUST0433,Customer_433,customer433@email.com,Chennai,Tamil Nadu,Budget,2022-11-20
+CUST0434,Customer_434,customer434@email.com,Ahmedabad,Gujarat,Regular,2022-09-25
+CUST0435,Customer_435,customer435@email.com,Hyderabad,Telangana,Premium,2022-07-29
+CUST0436,Customer_436,customer436@email.com,Ahmedabad,Gujarat,Regular,2023-11-17
+CUST0437,Customer_437,customer437@email.com,Ahmedabad,Gujarat,Premium,2024-01-04
+CUST0438,Customer_438,customer438@email.com,Ahmedabad,Gujarat,Budget,2022-11-18
+CUST0439,Customer_439,customer439@email.com,Pune,Maharashtra,Premium,2022-09-02
+CUST0440,Customer_440,customer440@email.com,Bangalore,Karnataka,Regular,2022-09-29
+CUST0441,Customer_441,customer441@email.com,Mumbai,Maharashtra,Regular,2023-02-10
+CUST0442,Customer_442,customer442@email.com,Ahmedabad,Gujarat,Regular,2022-05-15
+CUST0443,Customer_443,customer443@email.com,Mumbai,Maharashtra,Regular,2023-11-19
+CUST0444,Customer_444,customer444@email.com,Ahmedabad,Gujarat,Budget,2023-10-23
+CUST0445,Customer_445,customer445@email.com,Hyderabad,Telangana,Regular,2022-11-04
+CUST0446,Customer_446,customer446@email.com,Bangalore,Karnataka,Premium,2023-04-14
+CUST0447,Customer_447,customer447@email.com,Bangalore,Karnataka,Premium,2022-11-20
+CUST0448,Customer_448,customer448@email.com,Kolkata,West Bengal,Budget,2024-02-09
+CUST0449,Customer_449,customer449@email.com,Pune,Maharashtra,Budget,2022-03-16
+CUST0450,Customer_450,customer450@email.com,Kolkata,West Bengal,Regular,2022-01-10
+CUST0451,Customer_451,customer451@email.com,Kolkata,West Bengal,Regular,2023-04-15
+CUST0452,Customer_452,customer452@email.com,Kolkata,West Bengal,Regular,2023-09-29
+CUST0453,Customer_453,customer453@email.com,Kolkata,West Bengal,Premium,2023-07-31
+CUST0454,Customer_454,customer454@email.com,Kolkata,West Bengal,Budget,2022-04-13
+CUST0455,Customer_455,customer455@email.com,Chennai,Tamil Nadu,Regular,2022-03-17
+CUST0456,Customer_456,customer456@email.com,Bangalore,Karnataka,Regular,2023-07-05
+CUST0457,Customer_457,customer457@email.com,Kolkata,West Bengal,Regular,2022-08-07
+CUST0458,Customer_458,customer458@email.com,Ahmedabad,Gujarat,Premium,2023-06-03
+CUST0459,Customer_459,customer459@email.com,Bangalore,Karnataka,Premium,2022-09-29
+CUST0460,Customer_460,customer460@email.com,Bangalore,Karnataka,Budget,2022-05-16
+CUST0461,Customer_461,customer461@email.com,Delhi,Delhi,Premium,2022-12-24
+CUST0462,Customer_462,customer462@email.com,Chennai,Tamil Nadu,Regular,2022-03-12
+CUST0463,Customer_463,customer463@email.com,Kolkata,West Bengal,Regular,2024-06-19
+CUST0464,Customer_464,customer464@email.com,Mumbai,Maharashtra,Regular,2022-09-08
+CUST0465,Customer_465,customer465@email.com,Hyderabad,Telangana,Regular,2023-01-14
+CUST0466,Customer_466,customer466@email.com,Pune,Maharashtra,Regular,2022-10-19
+CUST0467,Customer_467,customer467@email.com,Ahmedabad,Gujarat,Budget,2022-06-11
+CUST0468,Customer_468,customer468@email.com,Mumbai,Maharashtra,Regular,2023-03-25
+CUST0469,Customer_469,customer469@email.com,Chennai,Tamil Nadu,Regular,2024-05-03
+CUST0470,Customer_470,customer470@email.com,Hyderabad,Telangana,Regular,2023-07-11
+CUST0471,Customer_471,customer471@email.com,Chennai,Tamil Nadu,Regular,2023-12-22
+CUST0472,Customer_472,customer472@email.com,Ahmedabad,Gujarat,Budget,2022-11-06
+CUST0473,Customer_473,customer473@email.com,Bangalore,Karnataka,Budget,2023-09-19
+CUST0474,Customer_474,customer474@email.com,Hyderabad,Telangana,Regular,2024-04-06
+CUST0475,Customer_475,customer475@email.com,Bangalore,Karnataka,Premium,2023-11-01
+CUST0476,Customer_476,customer476@email.com,Ahmedabad,Gujarat,Regular,2023-06-26
+CUST0477,Customer_477,customer477@email.com,Mumbai,Maharashtra,Regular,2022-01-09
+CUST0478,Customer_478,customer478@email.com,Ahmedabad,Gujarat,Premium,2023-11-15
+CUST0479,Customer_479,customer479@email.com,Mumbai,Maharashtra,Regular,2024-04-16
+CUST0480,Customer_480,customer480@email.com,Hyderabad,Telangana,Regular,2023-07-22
+CUST0481,Customer_481,customer481@email.com,Hyderabad,Telangana,Regular,2022-11-03
+CUST0482,Customer_482,customer482@email.com,Kolkata,West Bengal,Budget,2023-11-11
+CUST0483,Customer_483,customer483@email.com,Chennai,Tamil Nadu,Premium,2022-04-17
+CUST0484,Customer_484,customer484@email.com,Kolkata,West Bengal,Premium,2024-06-18
+CUST0485,Customer_485,customer485@email.com,Chennai,Tamil Nadu,Budget,2022-05-18
+CUST0486,Customer_486,customer486@email.com,Kolkata,West Bengal,Regular,2022-09-28
+CUST0487,Customer_487,customer487@email.com,Bangalore,Karnataka,Regular,2022-04-29
+CUST0488,Customer_488,customer488@email.com,Hyderabad,Telangana,Regular,2022-04-20
+CUST0489,Customer_489,customer489@email.com,Mumbai,Maharashtra,Regular,2024-01-31
+CUST0490,Customer_490,customer490@email.com,Chennai,Tamil Nadu,Budget,2023-07-21
+CUST0491,Customer_491,customer491@email.com,Ahmedabad,Gujarat,Budget,2022-06-09
+CUST0492,Customer_492,customer492@email.com,Chennai,Tamil Nadu,Regular,2022-10-06
+CUST0493,Customer_493,customer493@email.com,Mumbai,Maharashtra,Regular,2022-10-16
+CUST0494,Customer_494,customer494@email.com,Kolkata,West Bengal,Regular,2023-09-12
+CUST0495,Customer_495,customer495@email.com,Chennai,Tamil Nadu,Regular,2022-08-04
+CUST0496,Customer_496,customer496@email.com,Pune,Maharashtra,Premium,2024-01-05
+CUST0497,Customer_497,customer497@email.com,Bangalore,Karnataka,Budget,2022-12-18
+CUST0498,Customer_498,customer498@email.com,Hyderabad,Telangana,Premium,2022-07-28
+CUST0499,Customer_499,customer499@email.com,Mumbai,Maharashtra,Budget,2023-12-05
+CUST0500,Customer_500,customer500@email.com,Hyderabad,Telangana,Regular,2023-10-12
