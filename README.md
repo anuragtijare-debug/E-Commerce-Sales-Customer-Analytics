@@ -295,9 +295,8 @@ Open the workbook in `Excel Dashboard/` with Excel, and the HTML file in `Web Da
 ## Author
 
 **Your Name**
+**Anurag Tijare**
 
-GitHub: [@your-username](https://github.com/your-username)
-LinkedIn: [in/your-profile](https://www.linkedin.com/in/your-profile)
 
 **E-Commerce Sales & Customer Analytics**
 SQL • Excel • Window Functions • RFM • Business Insights
